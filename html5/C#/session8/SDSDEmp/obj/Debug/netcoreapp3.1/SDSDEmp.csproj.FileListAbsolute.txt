@@ -1,0 +1,4 @@
+C:\codebits-academy\html5\C#\session8\sdsdemp\obj\Debug\netcoreapp3.1\SDSDEmp.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session8\sdsdemp\obj\Debug\netcoreapp3.1\SDSDEmp.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session8\sdsdemp\obj\Debug\netcoreapp3.1\SDSDEmp.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session8\sdsdemp\obj\Debug\netcoreapp3.1\SDSDEmp.AssemblyInfo.cs

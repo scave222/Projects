@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\labtask5\productseries\bin\Debug\netcoreapp3.1\ProductSeries.exe
+C:\codebits-academy\html5\C#\labtask5\productseries\bin\Debug\netcoreapp3.1\ProductSeries.deps.json
+C:\codebits-academy\html5\C#\labtask5\productseries\bin\Debug\netcoreapp3.1\ProductSeries.runtimeconfig.json
+C:\codebits-academy\html5\C#\labtask5\productseries\bin\Debug\netcoreapp3.1\ProductSeries.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\labtask5\productseries\bin\Debug\netcoreapp3.1\ProductSeries.dll
+C:\codebits-academy\html5\C#\labtask5\productseries\bin\Debug\netcoreapp3.1\ProductSeries.pdb
+C:\codebits-academy\html5\C#\labtask5\productseries\obj\Debug\netcoreapp3.1\ProductSeries.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\labtask5\productseries\obj\Debug\netcoreapp3.1\ProductSeries.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\labtask5\productseries\obj\Debug\netcoreapp3.1\ProductSeries.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\labtask5\productseries\obj\Debug\netcoreapp3.1\ProductSeries.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\labtask5\productseries\obj\Debug\netcoreapp3.1\ProductSeries.dll
+C:\codebits-academy\html5\C#\labtask5\productseries\obj\Debug\netcoreapp3.1\ProductSeries.pdb
+C:\codebits-academy\html5\C#\labtask5\productseries\obj\Debug\netcoreapp3.1\ProductSeries.genruntimeconfig.cache

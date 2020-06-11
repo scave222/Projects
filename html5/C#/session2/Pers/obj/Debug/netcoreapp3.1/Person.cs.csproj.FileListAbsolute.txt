@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session2\pers\bin\Debug\netcoreapp3.1\Person.cs.exe
+C:\codebits-academy\html5\C#\session2\pers\bin\Debug\netcoreapp3.1\Person.cs.deps.json
+C:\codebits-academy\html5\C#\session2\pers\bin\Debug\netcoreapp3.1\Person.cs.runtimeconfig.json
+C:\codebits-academy\html5\C#\session2\pers\bin\Debug\netcoreapp3.1\Person.cs.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session2\pers\bin\Debug\netcoreapp3.1\Person.cs.dll
+C:\codebits-academy\html5\C#\session2\pers\bin\Debug\netcoreapp3.1\Person.cs.pdb
+C:\codebits-academy\html5\C#\session2\pers\obj\Debug\netcoreapp3.1\Person.cs.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session2\pers\obj\Debug\netcoreapp3.1\Person.cs.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session2\pers\obj\Debug\netcoreapp3.1\Person.cs.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session2\pers\obj\Debug\netcoreapp3.1\Person.cs.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session2\pers\obj\Debug\netcoreapp3.1\Person.cs.dll
+C:\codebits-academy\html5\C#\session2\pers\obj\Debug\netcoreapp3.1\Person.cs.pdb
+C:\codebits-academy\html5\C#\session2\pers\obj\Debug\netcoreapp3.1\Person.cs.genruntimeconfig.cache

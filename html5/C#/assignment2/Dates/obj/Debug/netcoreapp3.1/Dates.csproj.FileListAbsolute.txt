@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\assignment2\Dates\obj\Debug\netcoreapp3.1\Dates.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\assignment2\Dates\obj\Debug\netcoreapp3.1\Dates.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\assignment2\Dates\obj\Debug\netcoreapp3.1\Dates.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\assignment2\Dates\obj\Debug\netcoreapp3.1\Dates.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\assignment2\Dates\bin\Debug\netcoreapp3.1\Dates.exe
+C:\codebits-academy\html5\C#\assignment2\Dates\bin\Debug\netcoreapp3.1\Dates.deps.json
+C:\codebits-academy\html5\C#\assignment2\Dates\bin\Debug\netcoreapp3.1\Dates.runtimeconfig.json
+C:\codebits-academy\html5\C#\assignment2\Dates\bin\Debug\netcoreapp3.1\Dates.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\assignment2\Dates\bin\Debug\netcoreapp3.1\Dates.dll
+C:\codebits-academy\html5\C#\assignment2\Dates\bin\Debug\netcoreapp3.1\Dates.pdb
+C:\codebits-academy\html5\C#\assignment2\Dates\obj\Debug\netcoreapp3.1\Dates.dll
+C:\codebits-academy\html5\C#\assignment2\Dates\obj\Debug\netcoreapp3.1\Dates.pdb
+C:\codebits-academy\html5\C#\assignment2\Dates\obj\Debug\netcoreapp3.1\Dates.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session11\GenericMethod\obj\Debug\netcoreapp3.1\GenericMethod.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session11\GenericMethod\obj\Debug\netcoreapp3.1\GenericMethod.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session11\GenericMethod\obj\Debug\netcoreapp3.1\GenericMethod.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session11\GenericMethod\obj\Debug\netcoreapp3.1\GenericMethod.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session11\GenericMethod\bin\Debug\netcoreapp3.1\GenericMethod.exe
+C:\codebits-academy\html5\C#\session11\GenericMethod\bin\Debug\netcoreapp3.1\GenericMethod.deps.json
+C:\codebits-academy\html5\C#\session11\GenericMethod\bin\Debug\netcoreapp3.1\GenericMethod.runtimeconfig.json
+C:\codebits-academy\html5\C#\session11\GenericMethod\bin\Debug\netcoreapp3.1\GenericMethod.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session11\GenericMethod\bin\Debug\netcoreapp3.1\GenericMethod.dll
+C:\codebits-academy\html5\C#\session11\GenericMethod\bin\Debug\netcoreapp3.1\GenericMethod.pdb
+C:\codebits-academy\html5\C#\session11\GenericMethod\obj\Debug\netcoreapp3.1\GenericMethod.dll
+C:\codebits-academy\html5\C#\session11\GenericMethod\obj\Debug\netcoreapp3.1\GenericMethod.pdb
+C:\codebits-academy\html5\C#\session11\GenericMethod\obj\Debug\netcoreapp3.1\GenericMethod.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session5\RandomTest\bin\Debug\netcoreapp3.1\RandomTest.exe
+C:\codebits-academy\html5\C#\session5\RandomTest\bin\Debug\netcoreapp3.1\RandomTest.deps.json
+C:\codebits-academy\html5\C#\session5\RandomTest\bin\Debug\netcoreapp3.1\RandomTest.runtimeconfig.json
+C:\codebits-academy\html5\C#\session5\RandomTest\bin\Debug\netcoreapp3.1\RandomTest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session5\RandomTest\bin\Debug\netcoreapp3.1\RandomTest.dll
+C:\codebits-academy\html5\C#\session5\RandomTest\bin\Debug\netcoreapp3.1\RandomTest.pdb
+C:\codebits-academy\html5\C#\session5\RandomTest\obj\Debug\netcoreapp3.1\RandomTest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session5\RandomTest\obj\Debug\netcoreapp3.1\RandomTest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session5\RandomTest\obj\Debug\netcoreapp3.1\RandomTest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session5\RandomTest\obj\Debug\netcoreapp3.1\RandomTest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session5\RandomTest\obj\Debug\netcoreapp3.1\RandomTest.dll
+C:\codebits-academy\html5\C#\session5\RandomTest\obj\Debug\netcoreapp3.1\RandomTest.pdb
+C:\codebits-academy\html5\C#\session5\RandomTest\obj\Debug\netcoreapp3.1\RandomTest.genruntimeconfig.cache

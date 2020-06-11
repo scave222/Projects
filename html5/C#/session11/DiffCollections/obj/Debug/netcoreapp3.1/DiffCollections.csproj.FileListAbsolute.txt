@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session11\DiffCollections\obj\Debug\netcoreapp3.1\DiffCollections.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session11\DiffCollections\obj\Debug\netcoreapp3.1\DiffCollections.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session11\DiffCollections\obj\Debug\netcoreapp3.1\DiffCollections.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session11\DiffCollections\obj\Debug\netcoreapp3.1\DiffCollections.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session11\DiffCollections\bin\Debug\netcoreapp3.1\DiffCollections.exe
+C:\codebits-academy\html5\C#\session11\DiffCollections\bin\Debug\netcoreapp3.1\DiffCollections.deps.json
+C:\codebits-academy\html5\C#\session11\DiffCollections\bin\Debug\netcoreapp3.1\DiffCollections.runtimeconfig.json
+C:\codebits-academy\html5\C#\session11\DiffCollections\bin\Debug\netcoreapp3.1\DiffCollections.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session11\DiffCollections\bin\Debug\netcoreapp3.1\DiffCollections.dll
+C:\codebits-academy\html5\C#\session11\DiffCollections\bin\Debug\netcoreapp3.1\DiffCollections.pdb
+C:\codebits-academy\html5\C#\session11\DiffCollections\obj\Debug\netcoreapp3.1\DiffCollections.dll
+C:\codebits-academy\html5\C#\session11\DiffCollections\obj\Debug\netcoreapp3.1\DiffCollections.pdb
+C:\codebits-academy\html5\C#\session11\DiffCollections\obj\Debug\netcoreapp3.1\DiffCollections.genruntimeconfig.cache

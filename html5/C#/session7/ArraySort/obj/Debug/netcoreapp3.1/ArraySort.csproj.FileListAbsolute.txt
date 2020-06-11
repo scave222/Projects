@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session7\arraysort\bin\Debug\netcoreapp3.1\ArraySort.exe
+C:\codebits-academy\html5\C#\session7\arraysort\bin\Debug\netcoreapp3.1\ArraySort.deps.json
+C:\codebits-academy\html5\C#\session7\arraysort\bin\Debug\netcoreapp3.1\ArraySort.runtimeconfig.json
+C:\codebits-academy\html5\C#\session7\arraysort\bin\Debug\netcoreapp3.1\ArraySort.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session7\arraysort\bin\Debug\netcoreapp3.1\ArraySort.dll
+C:\codebits-academy\html5\C#\session7\arraysort\bin\Debug\netcoreapp3.1\ArraySort.pdb
+C:\codebits-academy\html5\C#\session7\arraysort\obj\Debug\netcoreapp3.1\ArraySort.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session7\arraysort\obj\Debug\netcoreapp3.1\ArraySort.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session7\arraysort\obj\Debug\netcoreapp3.1\ArraySort.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session7\arraysort\obj\Debug\netcoreapp3.1\ArraySort.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session7\arraysort\obj\Debug\netcoreapp3.1\ArraySort.dll
+C:\codebits-academy\html5\C#\session7\arraysort\obj\Debug\netcoreapp3.1\ArraySort.pdb
+C:\codebits-academy\html5\C#\session7\arraysort\obj\Debug\netcoreapp3.1\ArraySort.genruntimeconfig.cache

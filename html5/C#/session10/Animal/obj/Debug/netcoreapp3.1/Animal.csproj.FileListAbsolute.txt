@@ -1,0 +1,4 @@
+C:\codebits-academy\html5\C#\session10\Animal\obj\Debug\netcoreapp3.1\Animal.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session10\Animal\obj\Debug\netcoreapp3.1\Animal.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session10\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session10\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfo.cs

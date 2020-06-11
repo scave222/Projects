@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Implementting Slide Toggle</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<section class="container-fluid">
+    <section class="container">
+        <div class="row top-panel">
+            <div class="col-md-4">
+                <h1>Codebits Academy</h1>
+            </div>
+            <div class="col-md-8">
+                <p id="hamburger" class="float-right">&#9776;</p>
+            </div>
+        </div>
+    </section>
+    <div class="row">
+        <div class="col-md-12 nav-panel">
+            <ul class="nav text-center">
+                <li class="nav-item"><a href="#" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">Services</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">Products</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">FAQs</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+</section>
+<section class="jumbotron">
+    <section class="container">
+        <h1>Codebits Academy</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus ullam debitis nostrum error distinctio, accusamus suscipit consequuntur odit perspiciatis facilis maxime vero nesciunt inventore tempore molestias minima iusto aliquid a!</p>
+        <span class="btn btn-primary">Learn More</span>
+    </section>
+</section>
+<script src="js/jquery.js"></script>
+<script>
+    $("#hamburger").click(function () {
+        $(".nav-panel").slideToggle("slow");
+    })
+</script>
+</body>
+</html>

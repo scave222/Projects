@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session6\CrapGameApp\obj\Debug\netcoreapp3.1\CrapGameApp.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session6\CrapGameApp\obj\Debug\netcoreapp3.1\CrapGameApp.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session6\CrapGameApp\obj\Debug\netcoreapp3.1\CrapGameApp.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session6\CrapGameApp\obj\Debug\netcoreapp3.1\CrapGameApp.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session6\CrapGameApp\obj\Debug\netcoreapp3.1\CrapGameApp.dll
+C:\codebits-academy\html5\C#\session6\CrapGameApp\obj\Debug\netcoreapp3.1\CrapGameApp.pdb
+C:\codebits-academy\html5\C#\session6\CrapGameApp\bin\Debug\netcoreapp3.1\CrapGameApp.exe
+C:\codebits-academy\html5\C#\session6\CrapGameApp\bin\Debug\netcoreapp3.1\CrapGameApp.deps.json
+C:\codebits-academy\html5\C#\session6\CrapGameApp\bin\Debug\netcoreapp3.1\CrapGameApp.runtimeconfig.json
+C:\codebits-academy\html5\C#\session6\CrapGameApp\bin\Debug\netcoreapp3.1\CrapGameApp.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session6\CrapGameApp\bin\Debug\netcoreapp3.1\CrapGameApp.dll
+C:\codebits-academy\html5\C#\session6\CrapGameApp\bin\Debug\netcoreapp3.1\CrapGameApp.pdb
+C:\codebits-academy\html5\C#\session6\CrapGameApp\obj\Debug\netcoreapp3.1\CrapGameApp.genruntimeconfig.cache

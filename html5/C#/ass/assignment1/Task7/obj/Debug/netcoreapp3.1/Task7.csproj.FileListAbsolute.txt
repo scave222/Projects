@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\assignment1\Task7\bin\Debug\netcoreapp3.1\Task7.exe
+C:\codebits-academy\html5\C#\assignment1\Task7\bin\Debug\netcoreapp3.1\Task7.deps.json
+C:\codebits-academy\html5\C#\assignment1\Task7\bin\Debug\netcoreapp3.1\Task7.runtimeconfig.json
+C:\codebits-academy\html5\C#\assignment1\Task7\bin\Debug\netcoreapp3.1\Task7.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\assignment1\Task7\bin\Debug\netcoreapp3.1\Task7.dll
+C:\codebits-academy\html5\C#\assignment1\Task7\bin\Debug\netcoreapp3.1\Task7.pdb
+C:\codebits-academy\html5\C#\assignment1\Task7\obj\Debug\netcoreapp3.1\Task7.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\assignment1\Task7\obj\Debug\netcoreapp3.1\Task7.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\assignment1\Task7\obj\Debug\netcoreapp3.1\Task7.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\assignment1\Task7\obj\Debug\netcoreapp3.1\Task7.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\assignment1\Task7\obj\Debug\netcoreapp3.1\Task7.dll
+C:\codebits-academy\html5\C#\assignment1\Task7\obj\Debug\netcoreapp3.1\Task7.pdb
+C:\codebits-academy\html5\C#\assignment1\Task7\obj\Debug\netcoreapp3.1\Task7.genruntimeconfig.cache

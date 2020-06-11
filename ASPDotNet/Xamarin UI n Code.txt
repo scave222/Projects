@@ -1,0 +1,71 @@
+6.	In MainPage.xaml, remove all of the template code and replace it with the following code:
+XAML 
+•  <?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Notes.MainPage">
+    <StackLayout Margin="10,35,10,10">
+        <Label Text="Notes"
+               HorizontalOptions="Center"
+               FontAttributes="Bold" />
+        <Editor x:Name="editor"
+                Placeholder="Enter your note"
+                HeightRequest="100" />
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button Text="Save"
+                    Clicked="OnSaveButtonClicked" />
+            <Button Grid.Column="1"
+                    Text="Delete"
+                    Clicked="OnDeleteButtonClicked"/>
+        </Grid>
+    </StackLayout>
+</ContentPage>
+
+
+Save the changes to MainPage.xaml by pressing CTRL+S, and close the file.
+•  In Solution Explorer, in the Notes project, expand MainPage.xaml and double-click MainPage.xaml.cs to open it:
+
+
+
+•  In MainPage.xaml.cs, remove all of the template code and replace it with the following code:
+C# 
+8.	using System;
+9.	using System.IO;
+10.	using Xamarin.Forms;
+11.	
+12.	namespace Notes
+13.	{
+14.	    public partial class MainPage : ContentPage
+15.	    {
+16.	        string _fileName = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "notes.txt");
+17.	
+18.	        public MainPage()
+19.	        {
+20.	            InitializeComponent();
+21.	
+22.	            if (File.Exists(_fileName))
+23.	            {
+24.	                editor.Text = File.ReadAllText(_fileName);
+25.	            }
+26.	        }
+27.	
+28.	        void OnSaveButtonClicked(object sender, EventArgs e)
+29.	        {
+30.	            File.WriteAllText(_fileName, editor.Text);
+31.	        }
+32.	
+33.	        void OnDeleteButtonClicked(object sender, EventArgs e)
+34.	        {
+35.	            if (File.Exists(_fileName))
+36.	            {
+37.	                File.Delete(_fileName);
+38.	            }
+39.	            editor.Text = string.Empty;
+40.	        }
+41.	    }
+42.	}
+

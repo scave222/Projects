@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session4\CompoundInterest\obj\Debug\netcoreapp3.1\CompoundInterest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session4\CompoundInterest\obj\Debug\netcoreapp3.1\CompoundInterest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session4\CompoundInterest\obj\Debug\netcoreapp3.1\CompoundInterest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session4\CompoundInterest\obj\Debug\netcoreapp3.1\CompoundInterest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session4\CompoundInterest\bin\Debug\netcoreapp3.1\CompoundInterest.exe
+C:\codebits-academy\html5\C#\session4\CompoundInterest\bin\Debug\netcoreapp3.1\CompoundInterest.deps.json
+C:\codebits-academy\html5\C#\session4\CompoundInterest\bin\Debug\netcoreapp3.1\CompoundInterest.runtimeconfig.json
+C:\codebits-academy\html5\C#\session4\CompoundInterest\bin\Debug\netcoreapp3.1\CompoundInterest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session4\CompoundInterest\bin\Debug\netcoreapp3.1\CompoundInterest.dll
+C:\codebits-academy\html5\C#\session4\CompoundInterest\bin\Debug\netcoreapp3.1\CompoundInterest.pdb
+C:\codebits-academy\html5\C#\session4\CompoundInterest\obj\Debug\netcoreapp3.1\CompoundInterest.dll
+C:\codebits-academy\html5\C#\session4\CompoundInterest\obj\Debug\netcoreapp3.1\CompoundInterest.pdb
+C:\codebits-academy\html5\C#\session4\CompoundInterest\obj\Debug\netcoreapp3.1\CompoundInterest.genruntimeconfig.cache

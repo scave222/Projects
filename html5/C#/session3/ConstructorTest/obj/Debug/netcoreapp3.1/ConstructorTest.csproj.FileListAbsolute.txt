@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session3\ConstructorTest\bin\Debug\netcoreapp3.1\ConstructorTest.exe
+C:\codebits-academy\html5\C#\session3\ConstructorTest\bin\Debug\netcoreapp3.1\ConstructorTest.deps.json
+C:\codebits-academy\html5\C#\session3\ConstructorTest\bin\Debug\netcoreapp3.1\ConstructorTest.runtimeconfig.json
+C:\codebits-academy\html5\C#\session3\ConstructorTest\bin\Debug\netcoreapp3.1\ConstructorTest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session3\ConstructorTest\bin\Debug\netcoreapp3.1\ConstructorTest.dll
+C:\codebits-academy\html5\C#\session3\ConstructorTest\bin\Debug\netcoreapp3.1\ConstructorTest.pdb
+C:\codebits-academy\html5\C#\session3\ConstructorTest\obj\Debug\netcoreapp3.1\ConstructorTest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session3\ConstructorTest\obj\Debug\netcoreapp3.1\ConstructorTest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session3\ConstructorTest\obj\Debug\netcoreapp3.1\ConstructorTest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session3\ConstructorTest\obj\Debug\netcoreapp3.1\ConstructorTest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session3\ConstructorTest\obj\Debug\netcoreapp3.1\ConstructorTest.dll
+C:\codebits-academy\html5\C#\session3\ConstructorTest\obj\Debug\netcoreapp3.1\ConstructorTest.pdb
+C:\codebits-academy\html5\C#\session3\ConstructorTest\obj\Debug\netcoreapp3.1\ConstructorTest.genruntimeconfig.cache

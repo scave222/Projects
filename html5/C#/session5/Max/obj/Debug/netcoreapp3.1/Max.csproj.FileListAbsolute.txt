@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session5\Max\obj\Debug\netcoreapp3.1\Max.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session5\Max\obj\Debug\netcoreapp3.1\Max.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session5\Max\obj\Debug\netcoreapp3.1\Max.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session5\Max\obj\Debug\netcoreapp3.1\Max.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session5\Max\bin\Debug\netcoreapp3.1\Max.exe
+C:\codebits-academy\html5\C#\session5\Max\bin\Debug\netcoreapp3.1\Max.deps.json
+C:\codebits-academy\html5\C#\session5\Max\bin\Debug\netcoreapp3.1\Max.runtimeconfig.json
+C:\codebits-academy\html5\C#\session5\Max\bin\Debug\netcoreapp3.1\Max.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session5\Max\bin\Debug\netcoreapp3.1\Max.dll
+C:\codebits-academy\html5\C#\session5\Max\bin\Debug\netcoreapp3.1\Max.pdb
+C:\codebits-academy\html5\C#\session5\Max\obj\Debug\netcoreapp3.1\Max.dll
+C:\codebits-academy\html5\C#\session5\Max\obj\Debug\netcoreapp3.1\Max.pdb
+C:\codebits-academy\html5\C#\session5\Max\obj\Debug\netcoreapp3.1\Max.genruntimeconfig.cache

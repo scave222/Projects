@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session7\callprogram\bin\Debug\netcoreapp3.1\CallProgram.exe
+C:\codebits-academy\html5\C#\session7\callprogram\bin\Debug\netcoreapp3.1\CallProgram.deps.json
+C:\codebits-academy\html5\C#\session7\callprogram\bin\Debug\netcoreapp3.1\CallProgram.runtimeconfig.json
+C:\codebits-academy\html5\C#\session7\callprogram\bin\Debug\netcoreapp3.1\CallProgram.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session7\callprogram\bin\Debug\netcoreapp3.1\CallProgram.dll
+C:\codebits-academy\html5\C#\session7\callprogram\bin\Debug\netcoreapp3.1\CallProgram.pdb
+C:\codebits-academy\html5\C#\session7\callprogram\obj\Debug\netcoreapp3.1\CallProgram.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session7\callprogram\obj\Debug\netcoreapp3.1\CallProgram.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session7\callprogram\obj\Debug\netcoreapp3.1\CallProgram.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session7\callprogram\obj\Debug\netcoreapp3.1\CallProgram.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session7\callprogram\obj\Debug\netcoreapp3.1\CallProgram.dll
+C:\codebits-academy\html5\C#\session7\callprogram\obj\Debug\netcoreapp3.1\CallProgram.pdb
+C:\codebits-academy\html5\C#\session7\callprogram\obj\Debug\netcoreapp3.1\CallProgram.genruntimeconfig.cache

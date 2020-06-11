@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session11\MultiCastDeligate\bin\Debug\netcoreapp3.1\MultiCastDeligate.exe
+C:\codebits-academy\html5\C#\session11\MultiCastDeligate\bin\Debug\netcoreapp3.1\MultiCastDeligate.deps.json
+C:\codebits-academy\html5\C#\session11\MultiCastDeligate\bin\Debug\netcoreapp3.1\MultiCastDeligate.runtimeconfig.json
+C:\codebits-academy\html5\C#\session11\MultiCastDeligate\bin\Debug\netcoreapp3.1\MultiCastDeligate.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session11\MultiCastDeligate\bin\Debug\netcoreapp3.1\MultiCastDeligate.dll
+C:\codebits-academy\html5\C#\session11\MultiCastDeligate\bin\Debug\netcoreapp3.1\MultiCastDeligate.pdb
+C:\codebits-academy\html5\C#\session11\MultiCastDeligate\obj\Debug\netcoreapp3.1\MultiCastDeligate.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session11\MultiCastDeligate\obj\Debug\netcoreapp3.1\MultiCastDeligate.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session11\MultiCastDeligate\obj\Debug\netcoreapp3.1\MultiCastDeligate.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session11\MultiCastDeligate\obj\Debug\netcoreapp3.1\MultiCastDeligate.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session11\MultiCastDeligate\obj\Debug\netcoreapp3.1\MultiCastDeligate.dll
+C:\codebits-academy\html5\C#\session11\MultiCastDeligate\obj\Debug\netcoreapp3.1\MultiCastDeligate.pdb
+C:\codebits-academy\html5\C#\session11\MultiCastDeligate\obj\Debug\netcoreapp3.1\MultiCastDeligate.genruntimeconfig.cache

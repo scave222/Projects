@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session6\Scope\obj\Debug\netcoreapp3.1\Scope.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session6\Scope\obj\Debug\netcoreapp3.1\Scope.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session6\Scope\obj\Debug\netcoreapp3.1\Scope.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session6\Scope\obj\Debug\netcoreapp3.1\Scope.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session6\Scope\bin\Debug\netcoreapp3.1\Scope.exe
+C:\codebits-academy\html5\C#\session6\Scope\bin\Debug\netcoreapp3.1\Scope.deps.json
+C:\codebits-academy\html5\C#\session6\Scope\bin\Debug\netcoreapp3.1\Scope.runtimeconfig.json
+C:\codebits-academy\html5\C#\session6\Scope\bin\Debug\netcoreapp3.1\Scope.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session6\Scope\bin\Debug\netcoreapp3.1\Scope.dll
+C:\codebits-academy\html5\C#\session6\Scope\bin\Debug\netcoreapp3.1\Scope.pdb
+C:\codebits-academy\html5\C#\session6\Scope\obj\Debug\netcoreapp3.1\Scope.dll
+C:\codebits-academy\html5\C#\session6\Scope\obj\Debug\netcoreapp3.1\Scope.pdb
+C:\codebits-academy\html5\C#\session6\Scope\obj\Debug\netcoreapp3.1\Scope.genruntimeconfig.cache

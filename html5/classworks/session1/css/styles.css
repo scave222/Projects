@@ -1,0 +1,256 @@
+*{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
+
+/*font-family: 'Roboto', sans-serif;
+font-family: 'Bellota Text', cursive;
+font-family: 'Baloo Bhaijaan', cursive;*/
+
+body{
+	margin: 0;
+	background: #eee;
+	font-family: 'Roboto', sans-serif;
+}
+
+.container{
+	width: 960px;
+	min-height: 600px;
+	margin: 0 auto;
+	background: #fff;
+}
+
+.container header{
+	width: 100%;
+	height: 100px;
+	padding: 20px;
+}
+
+.container header h3{
+	margin: 0;
+}
+
+.container header h3 img{
+	width: 300px;
+}
+
+.container nav{
+	width: 100%;
+	height: 50px;
+	background: #237;
+	padding: 7px 0;
+}
+
+.container nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	float: right;
+}
+
+.container nav ul li{
+	float: left;
+}
+
+.container nav ul li a{
+	color: #237;
+	display: block;
+	width: 120px;
+	height: 35px;
+	background: #eee;
+	font-size: 17px;
+	margin: 0 5px;
+	text-decoration: none;
+	text-align: center;
+	padding: 7px;
+}
+
+.container nav ul li a:hover{
+	color: #f34;
+}
+
+.container .slider{
+	position: relative;
+	width: 100%;
+	height: 350px;
+	background-image: url(../images/slider1.jpg);
+	background-size: cover;background-position: center;
+	background-repeat: no-repeat;
+	padding: 80px 40px;
+}
+
+
+.container .slider .overlay{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(000, 000, 000, 0.5);
+}
+
+.container .slider .content{
+	position: relative;
+	width: 40%;
+	height: 150px;
+	background: #fff;
+	color: #234;
+	float: right;
+	z-index: 9999;
+	padding: 7px 15px 12px 15px;
+	border-top-left-radius: 25px;
+	 border-bottom-right-radius: 25px;
+}
+
+.container .slider .content h1{
+	font-family: 'Baloo Bhaijaan', cursive;
+	font-size: 27px;
+	text-transform: uppercase;
+	margin-bottom: 0;
+}
+
+.container .slider .content p{
+	font-size: 17px;
+}
+
+.container .main{
+	width: 100%;
+	padding: 10px 40px;
+	text-align: justify;
+	word-spacing: 6px;
+	line-height: 25px;
+}
+
+.container .main h1{
+	border-left: 10px solid #f34;
+	padding-left: 10px;
+	text-transform: uppercase;
+	font-family: 'Baloo Bhaijaan', cursive;
+	font-size: 25px;
+}
+
+.container .main h1 .red{
+	color: #f34;
+}
+
+.container .main h1 .blue{
+	color: #234;
+}
+
+
+.container .main .left{
+	width: 70%;
+	min-height: 500px;
+	float: left;
+	padding: 15px;
+}
+
+
+
+.container .main aside{
+	width: 30%;
+	min-height: 500px;
+	float: right;
+}
+
+.container .pages{
+	width: 100%;
+	height: 200px;
+	background-size:cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.container .pages.contact{
+	background-image: url(../images/contact.jpg);
+}
+
+.container .pages.courses{
+	background-image: url(../images/courses.jpg);
+}
+
+.container .pages.apply{
+	background-image: url(../images/apply.jpg);
+}
+
+.container .pages.about{
+	background-image: url(../images/about.jpg);
+}
+
+.container .main form table{
+	width: 100%;
+}
+
+.container .main form{
+	width: 100%;
+	padding:10px 0px 10px 0;
+}
+
+
+
+.container .main form input, textarea{
+	width:100%;
+	height: 45px;
+	border: none;
+	border-bottom: 2px solid #234;
+	outline: none;
+	padding: 7px;
+	font-size: 14px;
+	margin-bottom: 7px;
+	border-radius: 3px;
+	border-color: 7px;
+	background-color: #eee;
+}
+
+.container .main form textarea{
+	height: 150px;
+	resize: none;
+}
+
+.container .main form input[type="submit"]{
+	border-color: #234;
+	color:black;
+	cursor: pointer;
+	font-size:18;
+	background-color: gray;
+}
+
+
+
+.container .main .footer-widget{
+	display: flex;
+	width: 100%;
+	justify-content: space-around;
+}
+
+.container .main .footer-widget .widget{
+	flex-basis: 29%;
+	padding: 10px 20px;
+	text-align: center;
+	border: 1px solid #eee;
+	border-radius: 9px;
+	background: #eee;
+}
+
+.container .main .footer-widget .widget h3{
+	font-family: 'Baloo Bhaijaan', cursive;
+	color: #f34
+}
+
+.container footer{
+	width: 100%;
+	height: 45px;
+	text-align: center;
+	background: #335;
+	color: #eee;
+	padding: 2px;
+	margin-top: 20px;
+	clear: both;
+}
+
+.container aside .fa{padding-right: 15px;}
+
+
+

@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session11\AnonymouseMethod\bin\Debug\netcoreapp3.1\AnonymouseMethod.exe
+C:\codebits-academy\html5\C#\session11\AnonymouseMethod\bin\Debug\netcoreapp3.1\AnonymouseMethod.deps.json
+C:\codebits-academy\html5\C#\session11\AnonymouseMethod\bin\Debug\netcoreapp3.1\AnonymouseMethod.runtimeconfig.json
+C:\codebits-academy\html5\C#\session11\AnonymouseMethod\bin\Debug\netcoreapp3.1\AnonymouseMethod.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session11\AnonymouseMethod\bin\Debug\netcoreapp3.1\AnonymouseMethod.dll
+C:\codebits-academy\html5\C#\session11\AnonymouseMethod\bin\Debug\netcoreapp3.1\AnonymouseMethod.pdb
+C:\codebits-academy\html5\C#\session11\AnonymouseMethod\obj\Debug\netcoreapp3.1\AnonymouseMethod.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session11\AnonymouseMethod\obj\Debug\netcoreapp3.1\AnonymouseMethod.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session11\AnonymouseMethod\obj\Debug\netcoreapp3.1\AnonymouseMethod.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session11\AnonymouseMethod\obj\Debug\netcoreapp3.1\AnonymouseMethod.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session11\AnonymouseMethod\obj\Debug\netcoreapp3.1\AnonymouseMethod.dll
+C:\codebits-academy\html5\C#\session11\AnonymouseMethod\obj\Debug\netcoreapp3.1\AnonymouseMethod.pdb
+C:\codebits-academy\html5\C#\session11\AnonymouseMethod\obj\Debug\netcoreapp3.1\AnonymouseMethod.genruntimeconfig.cache

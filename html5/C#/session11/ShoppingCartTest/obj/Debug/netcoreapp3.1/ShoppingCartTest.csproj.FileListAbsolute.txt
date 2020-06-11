@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session11\ShoppingCartTest\obj\Debug\netcoreapp3.1\ShoppingCartTest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session11\ShoppingCartTest\obj\Debug\netcoreapp3.1\ShoppingCartTest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session11\ShoppingCartTest\obj\Debug\netcoreapp3.1\ShoppingCartTest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session11\ShoppingCartTest\obj\Debug\netcoreapp3.1\ShoppingCartTest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session11\ShoppingCartTest\bin\Debug\netcoreapp3.1\ShoppingCartTest.exe
+C:\codebits-academy\html5\C#\session11\ShoppingCartTest\bin\Debug\netcoreapp3.1\ShoppingCartTest.deps.json
+C:\codebits-academy\html5\C#\session11\ShoppingCartTest\bin\Debug\netcoreapp3.1\ShoppingCartTest.runtimeconfig.json
+C:\codebits-academy\html5\C#\session11\ShoppingCartTest\bin\Debug\netcoreapp3.1\ShoppingCartTest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session11\ShoppingCartTest\bin\Debug\netcoreapp3.1\ShoppingCartTest.dll
+C:\codebits-academy\html5\C#\session11\ShoppingCartTest\bin\Debug\netcoreapp3.1\ShoppingCartTest.pdb
+C:\codebits-academy\html5\C#\session11\ShoppingCartTest\obj\Debug\netcoreapp3.1\ShoppingCartTest.dll
+C:\codebits-academy\html5\C#\session11\ShoppingCartTest\obj\Debug\netcoreapp3.1\ShoppingCartTest.pdb
+C:\codebits-academy\html5\C#\session11\ShoppingCartTest\obj\Debug\netcoreapp3.1\ShoppingCartTest.genruntimeconfig.cache

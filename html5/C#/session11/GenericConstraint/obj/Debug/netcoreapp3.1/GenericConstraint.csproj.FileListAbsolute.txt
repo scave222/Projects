@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session11\GenericConstraint\obj\Debug\netcoreapp3.1\GenericConstraint.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session11\GenericConstraint\obj\Debug\netcoreapp3.1\GenericConstraint.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session11\GenericConstraint\obj\Debug\netcoreapp3.1\GenericConstraint.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session11\GenericConstraint\obj\Debug\netcoreapp3.1\GenericConstraint.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session11\GenericConstraint\bin\Debug\netcoreapp3.1\GenericConstraint.exe
+C:\codebits-academy\html5\C#\session11\GenericConstraint\bin\Debug\netcoreapp3.1\GenericConstraint.deps.json
+C:\codebits-academy\html5\C#\session11\GenericConstraint\bin\Debug\netcoreapp3.1\GenericConstraint.runtimeconfig.json
+C:\codebits-academy\html5\C#\session11\GenericConstraint\bin\Debug\netcoreapp3.1\GenericConstraint.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session11\GenericConstraint\bin\Debug\netcoreapp3.1\GenericConstraint.dll
+C:\codebits-academy\html5\C#\session11\GenericConstraint\bin\Debug\netcoreapp3.1\GenericConstraint.pdb
+C:\codebits-academy\html5\C#\session11\GenericConstraint\obj\Debug\netcoreapp3.1\GenericConstraint.dll
+C:\codebits-academy\html5\C#\session11\GenericConstraint\obj\Debug\netcoreapp3.1\GenericConstraint.pdb
+C:\codebits-academy\html5\C#\session11\GenericConstraint\obj\Debug\netcoreapp3.1\GenericConstraint.genruntimeconfig.cache

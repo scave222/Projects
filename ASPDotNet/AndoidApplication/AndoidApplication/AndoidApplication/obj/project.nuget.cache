@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+hhBfUFOwjA1soGQqSTyd8abO9hYUfwfasxE//Ag0/3kfyhFlHOX+3LXFYK3zRiVRp1aNgfzW0+pCU0gjdfD9w==",
+  "success": true,
+  "projectFilePath": "C:\\codebits-academy\\ASPDotNet\\AndoidApplication\\AndoidApplication\\AndoidApplication\\AndoidApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

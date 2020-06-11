@@ -1,0 +1,4 @@
+C:\codebits-academy\html5\C#\ass\Electorate\obj\Debug\netcoreapp3.1\Electorate.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\ass\Electorate\obj\Debug\netcoreapp3.1\Electorate.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\ass\Electorate\obj\Debug\netcoreapp3.1\Electorate.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\ass\Electorate\obj\Debug\netcoreapp3.1\Electorate.AssemblyInfo.cs

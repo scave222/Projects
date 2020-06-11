@@ -1,0 +1,14 @@
+C:\codebits-academy\ASPDotNet\AndoidApplication\AndoidApplication\AndoidApplication\bin\Debug\netstandard2.0\AndoidApplication.deps.json
+C:\codebits-academy\ASPDotNet\AndoidApplication\AndoidApplication\AndoidApplication\bin\Debug\netstandard2.0\AndoidApplication.dll
+C:\codebits-academy\ASPDotNet\AndoidApplication\AndoidApplication\AndoidApplication\bin\Debug\netstandard2.0\ref\AndoidApplication.dll
+C:\codebits-academy\ASPDotNet\AndoidApplication\AndoidApplication\AndoidApplication\bin\Debug\netstandard2.0\AndoidApplication.pdb
+C:\codebits-academy\ASPDotNet\AndoidApplication\AndoidApplication\AndoidApplication\obj\Debug\netstandard2.0\AndoidApplication.csprojAssemblyReference.cache
+C:\codebits-academy\ASPDotNet\AndoidApplication\AndoidApplication\AndoidApplication\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\codebits-academy\ASPDotNet\AndoidApplication\AndoidApplication\AndoidApplication\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\codebits-academy\ASPDotNet\AndoidApplication\AndoidApplication\AndoidApplication\obj\Debug\netstandard2.0\AndoidApplication.csproj.CoreCompileInputs.cache
+C:\codebits-academy\ASPDotNet\AndoidApplication\AndoidApplication\AndoidApplication\obj\Debug\netstandard2.0\AndoidApplication.AssemblyInfoInputs.cache
+C:\codebits-academy\ASPDotNet\AndoidApplication\AndoidApplication\AndoidApplication\obj\Debug\netstandard2.0\AndoidApplication.AssemblyInfo.cs
+C:\codebits-academy\ASPDotNet\AndoidApplication\AndoidApplication\AndoidApplication\obj\Debug\netstandard2.0\XamlC.stamp
+C:\codebits-academy\ASPDotNet\AndoidApplication\AndoidApplication\AndoidApplication\obj\Debug\netstandard2.0\AndoidApplication.dll
+C:\codebits-academy\ASPDotNet\AndoidApplication\AndoidApplication\AndoidApplication\obj\Debug\netstandard2.0\ref\AndoidApplication.dll
+C:\codebits-academy\ASPDotNet\AndoidApplication\AndoidApplication\AndoidApplication\obj\Debug\netstandard2.0\AndoidApplication.pdb

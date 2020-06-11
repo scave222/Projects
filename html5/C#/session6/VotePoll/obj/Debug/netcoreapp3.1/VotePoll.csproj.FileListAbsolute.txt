@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session6\VotePoll\obj\Debug\netcoreapp3.1\VotePoll.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session6\VotePoll\obj\Debug\netcoreapp3.1\VotePoll.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session6\VotePoll\obj\Debug\netcoreapp3.1\VotePoll.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session6\VotePoll\obj\Debug\netcoreapp3.1\VotePoll.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session6\VotePoll\bin\Debug\netcoreapp3.1\VotePoll.exe
+C:\codebits-academy\html5\C#\session6\VotePoll\bin\Debug\netcoreapp3.1\VotePoll.deps.json
+C:\codebits-academy\html5\C#\session6\VotePoll\bin\Debug\netcoreapp3.1\VotePoll.runtimeconfig.json
+C:\codebits-academy\html5\C#\session6\VotePoll\bin\Debug\netcoreapp3.1\VotePoll.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session6\VotePoll\bin\Debug\netcoreapp3.1\VotePoll.dll
+C:\codebits-academy\html5\C#\session6\VotePoll\bin\Debug\netcoreapp3.1\VotePoll.pdb
+C:\codebits-academy\html5\C#\session6\VotePoll\obj\Debug\netcoreapp3.1\VotePoll.dll
+C:\codebits-academy\html5\C#\session6\VotePoll\obj\Debug\netcoreapp3.1\VotePoll.pdb
+C:\codebits-academy\html5\C#\session6\VotePoll\obj\Debug\netcoreapp3.1\VotePoll.genruntimeconfig.cache

@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model CodeBitPress.Models.StudentDetailsViewModel
+
+<html>
+<head>
+    <title>@Model.Title</title>
+   
+</head>
+<body>
+    <h1>@Model.Header</h1>
+    <div>
+        Student Number : @Model.Student.StudentId
+    </div>
+    <div>
+        Student Name : @Model.Student.Name
+    </div>
+    <div>
+        Date Of Birth : @Model.Student.DateOfBirth
+    </div>
+    <div>
+        Gender : @Model.Student.Gender
+    </div>
+    <h1>Student Address</h1>
+    <div>
+        City : @Model.Address.City
+    </div>
+    <div>
+        State : @Model.Address.State
+    </div>
+    <div>
+        Country : @Model.Address.Country
+    </div>
+
+    <h4>Student Activity Center</h4>
+    @Html.Partial("_LeaguePartial");
+</body>
+</html>
+

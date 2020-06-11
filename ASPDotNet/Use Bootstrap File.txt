@@ -1,0 +1,67 @@
+Modifying the Index view
+========================
+
+Please modify the Index view of Home Controller as shown below.
+
+@model List<CodeBits.Models.Publisher>
+@{
+ViewBag.Title = "Publisher List";
+Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="table-responsive">
+<table class="table">
+<thead>
+<tr>
+<th>ID</th>
+<th>Name</th>
+<th>View</th>
+<th>Update</th>
+<th>Delete</th>
+</tr>
+</thead>
+<tbody>
+@foreach (var Publisher in Model)
+{
+<tr>
+<td>@Publisher.PublisherId</td>
+<td>@Publisher.Name</td>
+<td class="text-center"><a href="#" class="btn btn-primary">View</a></td>
+<td class="text-center"><a href="#" class="btn btn-primary">Edit</a></td>
+<td class="text-center"><a href="#" class="btn btn-danger">Delete</a></td>
+</tr>
+}
+</tbody>
+</table>
+</div>
+
+
+Modifying the Details View
+=============================
+
+Please modify the Details view as shown below.
+
+@model CodeBits.Models.Publisher
+@{
+ViewBag.Title = "Publisher Details";
+Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row justify-content-center m-3">
+<div class="col-sm-8">
+<div class="card">
+<div class="card-header text-center">
+<h1>@Model.PublsherName</h1>
+</div>
+<div class="card-body text-center">
+<h4> Publisher ID : @Model.PublisherId</h4>
+<h4>Address : @Model.Address</h4>
+<h4>Phone : @Model.Phone</h4>
+<h4>City : @Model.City</h4>
+</div>
+<div class="card-footer text-center">
+<a href="#" class="btn btn-primary">Back</a>
+<a href="#" class="btn btn-primary">Edit</a>
+<a href="#" class="btn btn-danger">Delete</a>
+</div>
+</div>
+</div>
+</div>

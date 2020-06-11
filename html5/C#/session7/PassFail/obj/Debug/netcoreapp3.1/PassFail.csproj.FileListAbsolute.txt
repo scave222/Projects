@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session7\passfail\bin\Debug\netcoreapp3.1\PassFail.exe
+C:\codebits-academy\html5\C#\session7\passfail\bin\Debug\netcoreapp3.1\PassFail.deps.json
+C:\codebits-academy\html5\C#\session7\passfail\bin\Debug\netcoreapp3.1\PassFail.runtimeconfig.json
+C:\codebits-academy\html5\C#\session7\passfail\bin\Debug\netcoreapp3.1\PassFail.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session7\passfail\bin\Debug\netcoreapp3.1\PassFail.dll
+C:\codebits-academy\html5\C#\session7\passfail\bin\Debug\netcoreapp3.1\PassFail.pdb
+C:\codebits-academy\html5\C#\session7\passfail\obj\Debug\netcoreapp3.1\PassFail.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session7\passfail\obj\Debug\netcoreapp3.1\PassFail.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session7\passfail\obj\Debug\netcoreapp3.1\PassFail.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session7\passfail\obj\Debug\netcoreapp3.1\PassFail.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session7\passfail\obj\Debug\netcoreapp3.1\PassFail.dll
+C:\codebits-academy\html5\C#\session7\passfail\obj\Debug\netcoreapp3.1\PassFail.pdb
+C:\codebits-academy\html5\C#\session7\passfail\obj\Debug\netcoreapp3.1\PassFail.genruntimeconfig.cache

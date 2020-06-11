@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session2\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.exe
+C:\codebits-academy\html5\C#\session2\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.deps.json
+C:\codebits-academy\html5\C#\session2\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.runtimeconfig.json
+C:\codebits-academy\html5\C#\session2\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session2\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.dll
+C:\codebits-academy\html5\C#\session2\AccountTest\bin\Debug\netcoreapp3.1\AccountTest.pdb
+C:\codebits-academy\html5\C#\session2\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session2\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session2\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session2\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session2\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.dll
+C:\codebits-academy\html5\C#\session2\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.pdb
+C:\codebits-academy\html5\C#\session2\AccountTest\obj\Debug\netcoreapp3.1\AccountTest.genruntimeconfig.cache

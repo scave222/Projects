@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\comparison\bin\Debug\netcoreapp3.1\comparison.exe
+C:\codebits-academy\html5\C#\comparison\bin\Debug\netcoreapp3.1\comparison.deps.json
+C:\codebits-academy\html5\C#\comparison\bin\Debug\netcoreapp3.1\comparison.runtimeconfig.json
+C:\codebits-academy\html5\C#\comparison\bin\Debug\netcoreapp3.1\comparison.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\comparison\bin\Debug\netcoreapp3.1\comparison.dll
+C:\codebits-academy\html5\C#\comparison\bin\Debug\netcoreapp3.1\comparison.pdb
+C:\codebits-academy\html5\C#\comparison\obj\Debug\netcoreapp3.1\comparison.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\comparison\obj\Debug\netcoreapp3.1\comparison.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\comparison\obj\Debug\netcoreapp3.1\comparison.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\comparison\obj\Debug\netcoreapp3.1\comparison.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\comparison\obj\Debug\netcoreapp3.1\comparison.dll
+C:\codebits-academy\html5\C#\comparison\obj\Debug\netcoreapp3.1\comparison.pdb
+C:\codebits-academy\html5\C#\comparison\obj\Debug\netcoreapp3.1\comparison.genruntimeconfig.cache

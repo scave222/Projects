@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\ComplexTest\ComplexTest\bin\Debug\netcoreapp3.1\ComplexTest.exe
+C:\Users\hp\source\repos\ComplexTest\ComplexTest\bin\Debug\netcoreapp3.1\ComplexTest.deps.json
+C:\Users\hp\source\repos\ComplexTest\ComplexTest\bin\Debug\netcoreapp3.1\ComplexTest.runtimeconfig.json
+C:\Users\hp\source\repos\ComplexTest\ComplexTest\bin\Debug\netcoreapp3.1\ComplexTest.runtimeconfig.dev.json
+C:\Users\hp\source\repos\ComplexTest\ComplexTest\bin\Debug\netcoreapp3.1\ComplexTest.dll
+C:\Users\hp\source\repos\ComplexTest\ComplexTest\bin\Debug\netcoreapp3.1\ComplexTest.pdb
+C:\Users\hp\source\repos\ComplexTest\ComplexTest\obj\Debug\netcoreapp3.1\ComplexTest.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ComplexTest\ComplexTest\obj\Debug\netcoreapp3.1\ComplexTest.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ComplexTest\ComplexTest\obj\Debug\netcoreapp3.1\ComplexTest.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ComplexTest\ComplexTest\obj\Debug\netcoreapp3.1\ComplexTest.AssemblyInfo.cs
+C:\Users\hp\source\repos\ComplexTest\ComplexTest\obj\Debug\netcoreapp3.1\ComplexTest.dll
+C:\Users\hp\source\repos\ComplexTest\ComplexTest\obj\Debug\netcoreapp3.1\ComplexTest.pdb
+C:\Users\hp\source\repos\ComplexTest\ComplexTest\obj\Debug\netcoreapp3.1\ComplexTest.genruntimeconfig.cache

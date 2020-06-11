@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session7\timetest\bin\Debug\netcoreapp3.1\TimeTest.exe
+C:\codebits-academy\html5\C#\session7\timetest\bin\Debug\netcoreapp3.1\TimeTest.deps.json
+C:\codebits-academy\html5\C#\session7\timetest\bin\Debug\netcoreapp3.1\TimeTest.runtimeconfig.json
+C:\codebits-academy\html5\C#\session7\timetest\bin\Debug\netcoreapp3.1\TimeTest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session7\timetest\bin\Debug\netcoreapp3.1\TimeTest.dll
+C:\codebits-academy\html5\C#\session7\timetest\bin\Debug\netcoreapp3.1\TimeTest.pdb
+C:\codebits-academy\html5\C#\session7\timetest\obj\Debug\netcoreapp3.1\TimeTest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session7\timetest\obj\Debug\netcoreapp3.1\TimeTest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session7\timetest\obj\Debug\netcoreapp3.1\TimeTest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session7\timetest\obj\Debug\netcoreapp3.1\TimeTest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session7\timetest\obj\Debug\netcoreapp3.1\TimeTest.dll
+C:\codebits-academy\html5\C#\session7\timetest\obj\Debug\netcoreapp3.1\TimeTest.pdb
+C:\codebits-academy\html5\C#\session7\timetest\obj\Debug\netcoreapp3.1\TimeTest.genruntimeconfig.cache

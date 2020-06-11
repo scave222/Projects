@@ -1,0 +1,13 @@
+const backBtn = document.getElementById('backBtn');
+const forwardBtn = document.getElementById('forwardBtn');
+
+backBtn.addEventListener('click', gotoURL);
+forwardBtn.addEventListener('click', gotoURL);
+
+function gotoURL(e) {
+    if (e.target.id == "backBtn") {
+        history.back();
+    } else {
+        history.forward();
+    }
+}

@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session2\Calculatorset2\bin\Debug\netcoreapp3.1\Calculatorset2.exe
+C:\codebits-academy\html5\C#\session2\Calculatorset2\bin\Debug\netcoreapp3.1\Calculatorset2.deps.json
+C:\codebits-academy\html5\C#\session2\Calculatorset2\bin\Debug\netcoreapp3.1\Calculatorset2.runtimeconfig.json
+C:\codebits-academy\html5\C#\session2\Calculatorset2\bin\Debug\netcoreapp3.1\Calculatorset2.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session2\Calculatorset2\bin\Debug\netcoreapp3.1\Calculatorset2.dll
+C:\codebits-academy\html5\C#\session2\Calculatorset2\bin\Debug\netcoreapp3.1\Calculatorset2.pdb
+C:\codebits-academy\html5\C#\session2\Calculatorset2\obj\Debug\netcoreapp3.1\Calculatorset2.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session2\Calculatorset2\obj\Debug\netcoreapp3.1\Calculatorset2.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session2\Calculatorset2\obj\Debug\netcoreapp3.1\Calculatorset2.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session2\Calculatorset2\obj\Debug\netcoreapp3.1\Calculatorset2.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session2\Calculatorset2\obj\Debug\netcoreapp3.1\Calculatorset2.dll
+C:\codebits-academy\html5\C#\session2\Calculatorset2\obj\Debug\netcoreapp3.1\Calculatorset2.pdb
+C:\codebits-academy\html5\C#\session2\Calculatorset2\obj\Debug\netcoreapp3.1\Calculatorset2.genruntimeconfig.cache

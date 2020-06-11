@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\welcome\bin\Debug\netcoreapp3.1\welcome.exe
+C:\codebits-academy\html5\C#\welcome\bin\Debug\netcoreapp3.1\welcome.deps.json
+C:\codebits-academy\html5\C#\welcome\bin\Debug\netcoreapp3.1\welcome.runtimeconfig.json
+C:\codebits-academy\html5\C#\welcome\bin\Debug\netcoreapp3.1\welcome.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\welcome\bin\Debug\netcoreapp3.1\welcome.dll
+C:\codebits-academy\html5\C#\welcome\bin\Debug\netcoreapp3.1\welcome.pdb
+C:\codebits-academy\html5\C#\welcome\obj\Debug\netcoreapp3.1\welcome.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\welcome\obj\Debug\netcoreapp3.1\welcome.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\welcome\obj\Debug\netcoreapp3.1\welcome.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\welcome\obj\Debug\netcoreapp3.1\welcome.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\welcome\obj\Debug\netcoreapp3.1\welcome.dll
+C:\codebits-academy\html5\C#\welcome\obj\Debug\netcoreapp3.1\welcome.pdb
+C:\codebits-academy\html5\C#\welcome\obj\Debug\netcoreapp3.1\welcome.genruntimeconfig.cache

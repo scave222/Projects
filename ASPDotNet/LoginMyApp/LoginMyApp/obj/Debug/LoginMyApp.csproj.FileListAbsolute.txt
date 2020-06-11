@@ -1,0 +1,10 @@
+C:\Users\SOJ\source\repos\LoginMyApp\LoginMyApp\bin\Debug\LoginMyApp.exe.config
+C:\Users\SOJ\source\repos\LoginMyApp\LoginMyApp\bin\Debug\LoginMyApp.exe
+C:\Users\SOJ\source\repos\LoginMyApp\LoginMyApp\bin\Debug\LoginMyApp.pdb
+C:\Users\SOJ\source\repos\LoginMyApp\LoginMyApp\obj\Debug\LoginMyApp.csprojAssemblyReference.cache
+C:\Users\SOJ\source\repos\LoginMyApp\LoginMyApp\obj\Debug\LoginMyApp.fmLogin.resources
+C:\Users\SOJ\source\repos\LoginMyApp\LoginMyApp\obj\Debug\LoginMyApp.Properties.Resources.resources
+C:\Users\SOJ\source\repos\LoginMyApp\LoginMyApp\obj\Debug\LoginMyApp.csproj.GenerateResource.cache
+C:\Users\SOJ\source\repos\LoginMyApp\LoginMyApp\obj\Debug\LoginMyApp.csproj.CoreCompileInputs.cache
+C:\Users\SOJ\source\repos\LoginMyApp\LoginMyApp\obj\Debug\LoginMyApp.exe
+C:\Users\SOJ\source\repos\LoginMyApp\LoginMyApp\obj\Debug\LoginMyApp.pdb

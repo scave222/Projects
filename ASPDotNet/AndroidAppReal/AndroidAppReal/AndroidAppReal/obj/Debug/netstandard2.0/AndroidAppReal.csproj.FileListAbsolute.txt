@@ -1,0 +1,14 @@
+C:\codebits-academy\ASPDotNet\AndroidAppReal\AndroidAppReal\AndroidAppReal\bin\Debug\netstandard2.0\AndroidAppReal.deps.json
+C:\codebits-academy\ASPDotNet\AndroidAppReal\AndroidAppReal\AndroidAppReal\bin\Debug\netstandard2.0\AndroidAppReal.dll
+C:\codebits-academy\ASPDotNet\AndroidAppReal\AndroidAppReal\AndroidAppReal\bin\Debug\netstandard2.0\ref\AndroidAppReal.dll
+C:\codebits-academy\ASPDotNet\AndroidAppReal\AndroidAppReal\AndroidAppReal\bin\Debug\netstandard2.0\AndroidAppReal.pdb
+C:\codebits-academy\ASPDotNet\AndroidAppReal\AndroidAppReal\AndroidAppReal\obj\Debug\netstandard2.0\AndroidAppReal.csprojAssemblyReference.cache
+C:\codebits-academy\ASPDotNet\AndroidAppReal\AndroidAppReal\AndroidAppReal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\codebits-academy\ASPDotNet\AndroidAppReal\AndroidAppReal\AndroidAppReal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\codebits-academy\ASPDotNet\AndroidAppReal\AndroidAppReal\AndroidAppReal\obj\Debug\netstandard2.0\AndroidAppReal.csproj.CoreCompileInputs.cache
+C:\codebits-academy\ASPDotNet\AndroidAppReal\AndroidAppReal\AndroidAppReal\obj\Debug\netstandard2.0\AndroidAppReal.AssemblyInfoInputs.cache
+C:\codebits-academy\ASPDotNet\AndroidAppReal\AndroidAppReal\AndroidAppReal\obj\Debug\netstandard2.0\AndroidAppReal.AssemblyInfo.cs
+C:\codebits-academy\ASPDotNet\AndroidAppReal\AndroidAppReal\AndroidAppReal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\codebits-academy\ASPDotNet\AndroidAppReal\AndroidAppReal\AndroidAppReal\obj\Debug\netstandard2.0\AndroidAppReal.dll
+C:\codebits-academy\ASPDotNet\AndroidAppReal\AndroidAppReal\AndroidAppReal\obj\Debug\netstandard2.0\ref\AndroidAppReal.dll
+C:\codebits-academy\ASPDotNet\AndroidAppReal\AndroidAppReal\AndroidAppReal\obj\Debug\netstandard2.0\AndroidAppReal.pdb

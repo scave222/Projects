@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session5\EnumerationTest\obj\Debug\netcoreapp3.1\EnumerationTest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session5\EnumerationTest\obj\Debug\netcoreapp3.1\EnumerationTest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session5\EnumerationTest\obj\Debug\netcoreapp3.1\EnumerationTest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session5\EnumerationTest\obj\Debug\netcoreapp3.1\EnumerationTest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session5\EnumerationTest\bin\Debug\netcoreapp3.1\EnumerationTest.exe
+C:\codebits-academy\html5\C#\session5\EnumerationTest\bin\Debug\netcoreapp3.1\EnumerationTest.deps.json
+C:\codebits-academy\html5\C#\session5\EnumerationTest\bin\Debug\netcoreapp3.1\EnumerationTest.runtimeconfig.json
+C:\codebits-academy\html5\C#\session5\EnumerationTest\bin\Debug\netcoreapp3.1\EnumerationTest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session5\EnumerationTest\bin\Debug\netcoreapp3.1\EnumerationTest.dll
+C:\codebits-academy\html5\C#\session5\EnumerationTest\bin\Debug\netcoreapp3.1\EnumerationTest.pdb
+C:\codebits-academy\html5\C#\session5\EnumerationTest\obj\Debug\netcoreapp3.1\EnumerationTest.dll
+C:\codebits-academy\html5\C#\session5\EnumerationTest\obj\Debug\netcoreapp3.1\EnumerationTest.pdb
+C:\codebits-academy\html5\C#\session5\EnumerationTest\obj\Debug\netcoreapp3.1\EnumerationTest.genruntimeconfig.cache

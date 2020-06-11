@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session12\DelegateLambda\bin\Debug\netcoreapp3.1\DelegateLambda.exe
+C:\codebits-academy\html5\C#\session12\DelegateLambda\bin\Debug\netcoreapp3.1\DelegateLambda.deps.json
+C:\codebits-academy\html5\C#\session12\DelegateLambda\bin\Debug\netcoreapp3.1\DelegateLambda.runtimeconfig.json
+C:\codebits-academy\html5\C#\session12\DelegateLambda\bin\Debug\netcoreapp3.1\DelegateLambda.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session12\DelegateLambda\bin\Debug\netcoreapp3.1\DelegateLambda.dll
+C:\codebits-academy\html5\C#\session12\DelegateLambda\bin\Debug\netcoreapp3.1\DelegateLambda.pdb
+C:\codebits-academy\html5\C#\session12\DelegateLambda\obj\Debug\netcoreapp3.1\DelegateLambda.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session12\DelegateLambda\obj\Debug\netcoreapp3.1\DelegateLambda.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session12\DelegateLambda\obj\Debug\netcoreapp3.1\DelegateLambda.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session12\DelegateLambda\obj\Debug\netcoreapp3.1\DelegateLambda.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session12\DelegateLambda\obj\Debug\netcoreapp3.1\DelegateLambda.dll
+C:\codebits-academy\html5\C#\session12\DelegateLambda\obj\Debug\netcoreapp3.1\DelegateLambda.pdb
+C:\codebits-academy\html5\C#\session12\DelegateLambda\obj\Debug\netcoreapp3.1\DelegateLambda.genruntimeconfig.cache

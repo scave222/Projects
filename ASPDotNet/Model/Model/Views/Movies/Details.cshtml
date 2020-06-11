@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+<div class="text-center">
+    <h1>pass Array from Controller to view in ASP.Net Core MVC DEMO</h1>
+    <table cellpadding="0" cellspacing="0" class="table">
+        <thead>
+            <tr>
+                <th scope="col">Movies Name</th>
+                <th scope="col">Movies Type</th>
+                <th scope="col">Year Release</th>
+
+            </tr>
+        </thead>
+        @foreach(MoviesModelArray movies in (MoviesModelArray[])ViewBag.Movies)
+        {
+            <tr>
+                <td>@movies.MovieName</td>
+                <td>@movies.MovieType</td>
+                <td>@movies.YearRelease</td>
+            </tr>
+        }
+    </table>
+    <p>Date is @ViewData["ServerTime"]</p>
+
+</div>
+

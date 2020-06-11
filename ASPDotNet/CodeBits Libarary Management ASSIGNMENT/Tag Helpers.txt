@@ -1,0 +1,77 @@
+o	Tag Helpers in ASP.NET Core MVC 
+o	Image Tag Helper in ASP.NET Core 
+o	Environment Tag Helper in ASP.NET Core 
+o	Navigation Menus in ASP.NET Core 
+o	Form Tag Helpers in ASP.NET Core 
+o	Model Binding in ASP.NET Core 
+
+
+Select Tag Helper
+=================
+CSHTML
+<div class="form-group row">
+	<label asp-for="State" class="col-sm-2 col-form-label"></label>
+	<div class="col-sm-10">
+		<select asp-for="State" class="custom-select mr-sm-2" asp-items="Html.GetEnumSelectList<State>()"></select>
+	</div>
+</div>
+
+MODEL
+=====
+
+public enum State
+{
+	Lagos,
+	Abuja,
+	Kano,
+	Ogun
+}
+
+
+OR
+
+Dropdown list (Select)
+CSHTML
+=====
+<select asp-for="Country" asp-items="Model.Countries"></select>
+
+Model
+====
+public List<SelectListItem> Countries { get; set; }
+    = new List<SelectListItem>
+    {
+        new SelectListItem("UK", "UK"),
+        new SelectListItem("USA", "USA"),
+        new SelectListItem("France", "FR")
+    }; // used to populate the list of options
+
+public string Country { get; set; }
+
+
+Password
+=========
+CSHTML
+
+<input asp-for="Password" />
+
+Model
+
+[DataType(DataType.Password)]
+public string Password { get; set; } 
+
+
+
+File Upload
+==========
+<form enctype="multipart/form-data" method="post">
+    <dl>
+        <dt>
+            <label asp-for="FileUpload.FormFile"></label>
+        </dt>
+        <dd>
+            <input asp-for="FileUpload.FormFile" type="file">
+            <span asp-validation-for="FileUpload.FormFile"></span>
+        </dd>
+    </dl>
+    <input asp-page-handler="Upload" class="btn" type="submit" value="Upload" />
+</form>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jQuery Library</title>
+    <script src="js/jquery.js"></script>
+</head>
+<body>
+    <h1>Working with jQuery Library</h1>
+    <button id="btnOuch">Ouch!!</button>
+    
+<ul>
+    <li>James Stuart</li>
+    <li>Donald Trump</li>
+    <li>Boris Johnson</li>
+</ul>
+
+<button id="btn">Select First Element</button>
+
+<h2>jQuery Animation 1</h2>
+<h2>jQuery Animation 2</h2>
+<h2>jQuery Animation 3</h2>
+
+<h1 class="blue">Class blue</h1>
+<p class="blue">Class blue</p>
+<p class="blue">Class blue</p>
+<p class="blue">Class blue</p>
+<p class="blue">Class blue</p>
+<button class="blueButton">click</button>
+
+
+    <script>
+        $(document).ready(function(){
+            $("#btnOuch").click(function(){
+                alert("Ouch!!");
+            })
+
+            $("h1").mouseover(function(){
+                $(this).css("background-color", "orange")
+            })
+
+            $("h1").mouseleave(function(){
+                $(this).css("background-color", "white")
+            })
+
+            $("#btn").click(function(){
+                $("ul li:first").css("background-color", "orange");
+            })
+
+            $("h1").click(function(){
+                $(this).hide("slow");
+            })
+
+            $(".blueButton").click(function(){
+                $("p.blue").hide("slow");
+            })
+
+        })
+    </script>
+</body>
+</html>

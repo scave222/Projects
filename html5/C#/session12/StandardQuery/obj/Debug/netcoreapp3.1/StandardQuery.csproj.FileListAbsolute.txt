@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session12\StandardQuery\obj\Debug\netcoreapp3.1\StandardQuery.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session12\StandardQuery\obj\Debug\netcoreapp3.1\StandardQuery.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session12\StandardQuery\obj\Debug\netcoreapp3.1\StandardQuery.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session12\StandardQuery\obj\Debug\netcoreapp3.1\StandardQuery.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session12\StandardQuery\bin\Debug\netcoreapp3.1\StandardQuery.exe
+C:\codebits-academy\html5\C#\session12\StandardQuery\bin\Debug\netcoreapp3.1\StandardQuery.deps.json
+C:\codebits-academy\html5\C#\session12\StandardQuery\bin\Debug\netcoreapp3.1\StandardQuery.runtimeconfig.json
+C:\codebits-academy\html5\C#\session12\StandardQuery\bin\Debug\netcoreapp3.1\StandardQuery.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session12\StandardQuery\bin\Debug\netcoreapp3.1\StandardQuery.dll
+C:\codebits-academy\html5\C#\session12\StandardQuery\bin\Debug\netcoreapp3.1\StandardQuery.pdb
+C:\codebits-academy\html5\C#\session12\StandardQuery\obj\Debug\netcoreapp3.1\StandardQuery.dll
+C:\codebits-academy\html5\C#\session12\StandardQuery\obj\Debug\netcoreapp3.1\StandardQuery.pdb
+C:\codebits-academy\html5\C#\session12\StandardQuery\obj\Debug\netcoreapp3.1\StandardQuery.genruntimeconfig.cache

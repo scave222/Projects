@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session11\hash\obj\Debug\netcoreapp3.1\Hash.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session11\hash\obj\Debug\netcoreapp3.1\Hash.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session11\hash\obj\Debug\netcoreapp3.1\Hash.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session11\hash\obj\Debug\netcoreapp3.1\Hash.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session11\hash\bin\Debug\netcoreapp3.1\Hash.exe
+C:\codebits-academy\html5\C#\session11\hash\bin\Debug\netcoreapp3.1\Hash.deps.json
+C:\codebits-academy\html5\C#\session11\hash\bin\Debug\netcoreapp3.1\Hash.runtimeconfig.json
+C:\codebits-academy\html5\C#\session11\hash\bin\Debug\netcoreapp3.1\Hash.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session11\hash\bin\Debug\netcoreapp3.1\Hash.dll
+C:\codebits-academy\html5\C#\session11\hash\bin\Debug\netcoreapp3.1\Hash.pdb
+C:\codebits-academy\html5\C#\session11\hash\obj\Debug\netcoreapp3.1\Hash.dll
+C:\codebits-academy\html5\C#\session11\hash\obj\Debug\netcoreapp3.1\Hash.pdb
+C:\codebits-academy\html5\C#\session11\hash\obj\Debug\netcoreapp3.1\Hash.genruntimeconfig.cache

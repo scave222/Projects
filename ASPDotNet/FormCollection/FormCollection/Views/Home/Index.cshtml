@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="text-center">
+        <h1>Enter your name :</h1>
+
+        <form asp-action="ProcessQueryString" asp-controller="Home" method="get">
+            <label for="firstName">First Name :</label>
+            <input type="text" name="firstname" />
+            <label for="lastName">Last Name :</label>
+            <input type="text" name="lastname" />
+            <input type="submit" value="Submit" />
+        </form>
+
+        <h4>@ViewBag.Message</h4>
+
+        <form asp-action="ProcessForm" asp-controller="Home" method="post">
+            <label for="firstName">First Name :</label>
+            <input type="text" name="firstname" />
+            <label for="lastName">Last Name :</label>
+            <input type="text" name="lastname" />
+            <input type="submit" value="Submit" />
+        </form>
+
+        <h4>@ViewBag.Mess</h4>
+    </div>

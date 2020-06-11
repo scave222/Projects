@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\labtask5\SumOfTwoMatrices\obj\Debug\netcoreapp3.1\SumOfTwoMatrices.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\labtask5\SumOfTwoMatrices\obj\Debug\netcoreapp3.1\SumOfTwoMatrices.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\labtask5\SumOfTwoMatrices\obj\Debug\netcoreapp3.1\SumOfTwoMatrices.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\labtask5\SumOfTwoMatrices\obj\Debug\netcoreapp3.1\SumOfTwoMatrices.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\labtask5\SumOfTwoMatrices\bin\Debug\netcoreapp3.1\SumOfTwoMatrices.exe
+C:\codebits-academy\html5\C#\labtask5\SumOfTwoMatrices\bin\Debug\netcoreapp3.1\SumOfTwoMatrices.deps.json
+C:\codebits-academy\html5\C#\labtask5\SumOfTwoMatrices\bin\Debug\netcoreapp3.1\SumOfTwoMatrices.runtimeconfig.json
+C:\codebits-academy\html5\C#\labtask5\SumOfTwoMatrices\bin\Debug\netcoreapp3.1\SumOfTwoMatrices.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\labtask5\SumOfTwoMatrices\bin\Debug\netcoreapp3.1\SumOfTwoMatrices.dll
+C:\codebits-academy\html5\C#\labtask5\SumOfTwoMatrices\bin\Debug\netcoreapp3.1\SumOfTwoMatrices.pdb
+C:\codebits-academy\html5\C#\labtask5\SumOfTwoMatrices\obj\Debug\netcoreapp3.1\SumOfTwoMatrices.dll
+C:\codebits-academy\html5\C#\labtask5\SumOfTwoMatrices\obj\Debug\netcoreapp3.1\SumOfTwoMatrices.pdb
+C:\codebits-academy\html5\C#\labtask5\SumOfTwoMatrices\obj\Debug\netcoreapp3.1\SumOfTwoMatrices.genruntimeconfig.cache

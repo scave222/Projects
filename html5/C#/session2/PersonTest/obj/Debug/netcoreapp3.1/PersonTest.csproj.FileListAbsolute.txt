@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session2\PersonTest\obj\Debug\netcoreapp3.1\PersonTest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session2\PersonTest\obj\Debug\netcoreapp3.1\PersonTest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session2\PersonTest\obj\Debug\netcoreapp3.1\PersonTest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session2\PersonTest\obj\Debug\netcoreapp3.1\PersonTest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session2\PersonTest\bin\Debug\netcoreapp3.1\PersonTest.exe
+C:\codebits-academy\html5\C#\session2\PersonTest\bin\Debug\netcoreapp3.1\PersonTest.deps.json
+C:\codebits-academy\html5\C#\session2\PersonTest\bin\Debug\netcoreapp3.1\PersonTest.runtimeconfig.json
+C:\codebits-academy\html5\C#\session2\PersonTest\bin\Debug\netcoreapp3.1\PersonTest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session2\PersonTest\bin\Debug\netcoreapp3.1\PersonTest.dll
+C:\codebits-academy\html5\C#\session2\PersonTest\bin\Debug\netcoreapp3.1\PersonTest.pdb
+C:\codebits-academy\html5\C#\session2\PersonTest\obj\Debug\netcoreapp3.1\PersonTest.dll
+C:\codebits-academy\html5\C#\session2\PersonTest\obj\Debug\netcoreapp3.1\PersonTest.pdb
+C:\codebits-academy\html5\C#\session2\PersonTest\obj\Debug\netcoreapp3.1\PersonTest.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session9\polyshapes\bin\Debug\netcoreapp3.1\PolyShapes.exe
+C:\codebits-academy\html5\C#\session9\polyshapes\bin\Debug\netcoreapp3.1\PolyShapes.deps.json
+C:\codebits-academy\html5\C#\session9\polyshapes\bin\Debug\netcoreapp3.1\PolyShapes.runtimeconfig.json
+C:\codebits-academy\html5\C#\session9\polyshapes\bin\Debug\netcoreapp3.1\PolyShapes.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session9\polyshapes\bin\Debug\netcoreapp3.1\PolyShapes.dll
+C:\codebits-academy\html5\C#\session9\polyshapes\bin\Debug\netcoreapp3.1\PolyShapes.pdb
+C:\codebits-academy\html5\C#\session9\polyshapes\obj\Debug\netcoreapp3.1\PolyShapes.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session9\polyshapes\obj\Debug\netcoreapp3.1\PolyShapes.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session9\polyshapes\obj\Debug\netcoreapp3.1\PolyShapes.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session9\polyshapes\obj\Debug\netcoreapp3.1\PolyShapes.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session9\polyshapes\obj\Debug\netcoreapp3.1\PolyShapes.dll
+C:\codebits-academy\html5\C#\session9\polyshapes\obj\Debug\netcoreapp3.1\PolyShapes.pdb
+C:\codebits-academy\html5\C#\session9\polyshapes\obj\Debug\netcoreapp3.1\PolyShapes.genruntimeconfig.cache

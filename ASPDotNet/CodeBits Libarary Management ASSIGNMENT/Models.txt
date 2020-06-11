@@ -1,0 +1,15 @@
+Models
+
+1. Author
+[Authors]
+           ([au_id],[au_name],[sex],[phone],[address],[city],[state])
+2. Book
+[Books]
+           ([book_id],[book_name],[price],[au_id],[pub_id],[dt_of_publish])
+
+3. Publisher
+[Publishers]
+           ([pub_id],[pub_name],[phone],[address],[city],[state],[Country])
+
+Home
+Links( Index | Author | Book | Publisher | About Us | Contact Us )

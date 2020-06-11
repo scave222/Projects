@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\classworks\Playground\RectangleClass\RectangleClass\bin\Debug\netcoreapp3.1\RectangleClass.exe
+C:\Users\hp\source\repos\classworks\Playground\RectangleClass\RectangleClass\bin\Debug\netcoreapp3.1\RectangleClass.deps.json
+C:\Users\hp\source\repos\classworks\Playground\RectangleClass\RectangleClass\bin\Debug\netcoreapp3.1\RectangleClass.runtimeconfig.json
+C:\Users\hp\source\repos\classworks\Playground\RectangleClass\RectangleClass\bin\Debug\netcoreapp3.1\RectangleClass.runtimeconfig.dev.json
+C:\Users\hp\source\repos\classworks\Playground\RectangleClass\RectangleClass\bin\Debug\netcoreapp3.1\RectangleClass.dll
+C:\Users\hp\source\repos\classworks\Playground\RectangleClass\RectangleClass\bin\Debug\netcoreapp3.1\RectangleClass.pdb
+C:\Users\hp\source\repos\classworks\Playground\RectangleClass\RectangleClass\obj\Debug\netcoreapp3.1\RectangleClass.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\classworks\Playground\RectangleClass\RectangleClass\obj\Debug\netcoreapp3.1\RectangleClass.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\classworks\Playground\RectangleClass\RectangleClass\obj\Debug\netcoreapp3.1\RectangleClass.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\classworks\Playground\RectangleClass\RectangleClass\obj\Debug\netcoreapp3.1\RectangleClass.AssemblyInfo.cs
+C:\Users\hp\source\repos\classworks\Playground\RectangleClass\RectangleClass\obj\Debug\netcoreapp3.1\RectangleClass.dll
+C:\Users\hp\source\repos\classworks\Playground\RectangleClass\RectangleClass\obj\Debug\netcoreapp3.1\RectangleClass.pdb
+C:\Users\hp\source\repos\classworks\Playground\RectangleClass\RectangleClass\obj\Debug\netcoreapp3.1\RectangleClass.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+C:\codebits-academy\html5\C#\session11\sortedlist\obj\Debug\netcoreapp3.1\SortedList.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session11\sortedlist\obj\Debug\netcoreapp3.1\SortedList.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session11\sortedlist\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session11\sortedlist\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfo.cs

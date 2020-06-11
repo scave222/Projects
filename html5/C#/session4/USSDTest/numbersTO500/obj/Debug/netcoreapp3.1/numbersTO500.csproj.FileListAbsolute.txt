@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session4\USSDTest\numbersTO500\bin\Debug\netcoreapp3.1\numbersTO500.exe
+C:\codebits-academy\html5\C#\session4\USSDTest\numbersTO500\bin\Debug\netcoreapp3.1\numbersTO500.deps.json
+C:\codebits-academy\html5\C#\session4\USSDTest\numbersTO500\bin\Debug\netcoreapp3.1\numbersTO500.runtimeconfig.json
+C:\codebits-academy\html5\C#\session4\USSDTest\numbersTO500\bin\Debug\netcoreapp3.1\numbersTO500.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session4\USSDTest\numbersTO500\bin\Debug\netcoreapp3.1\numbersTO500.dll
+C:\codebits-academy\html5\C#\session4\USSDTest\numbersTO500\bin\Debug\netcoreapp3.1\numbersTO500.pdb
+C:\codebits-academy\html5\C#\session4\USSDTest\numbersTO500\obj\Debug\netcoreapp3.1\numbersTO500.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session4\USSDTest\numbersTO500\obj\Debug\netcoreapp3.1\numbersTO500.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session4\USSDTest\numbersTO500\obj\Debug\netcoreapp3.1\numbersTO500.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session4\USSDTest\numbersTO500\obj\Debug\netcoreapp3.1\numbersTO500.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session4\USSDTest\numbersTO500\obj\Debug\netcoreapp3.1\numbersTO500.dll
+C:\codebits-academy\html5\C#\session4\USSDTest\numbersTO500\obj\Debug\netcoreapp3.1\numbersTO500.pdb
+C:\codebits-academy\html5\C#\session4\USSDTest\numbersTO500\obj\Debug\netcoreapp3.1\numbersTO500.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session11\Icomparable\obj\Debug\netcoreapp3.1\Icomparable.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session11\Icomparable\obj\Debug\netcoreapp3.1\Icomparable.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session11\Icomparable\obj\Debug\netcoreapp3.1\Icomparable.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session11\Icomparable\obj\Debug\netcoreapp3.1\Icomparable.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session11\Icomparable\bin\Debug\netcoreapp3.1\Icomparable.exe
+C:\codebits-academy\html5\C#\session11\Icomparable\bin\Debug\netcoreapp3.1\Icomparable.deps.json
+C:\codebits-academy\html5\C#\session11\Icomparable\bin\Debug\netcoreapp3.1\Icomparable.runtimeconfig.json
+C:\codebits-academy\html5\C#\session11\Icomparable\bin\Debug\netcoreapp3.1\Icomparable.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session11\Icomparable\bin\Debug\netcoreapp3.1\Icomparable.dll
+C:\codebits-academy\html5\C#\session11\Icomparable\bin\Debug\netcoreapp3.1\Icomparable.pdb
+C:\codebits-academy\html5\C#\session11\Icomparable\obj\Debug\netcoreapp3.1\Icomparable.dll
+C:\codebits-academy\html5\C#\session11\Icomparable\obj\Debug\netcoreapp3.1\Icomparable.pdb
+C:\codebits-academy\html5\C#\session11\Icomparable\obj\Debug\netcoreapp3.1\Icomparable.genruntimeconfig.cache

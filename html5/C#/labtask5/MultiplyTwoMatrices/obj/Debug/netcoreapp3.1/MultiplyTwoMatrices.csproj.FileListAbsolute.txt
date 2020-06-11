@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\labtask5\MultiplyTwoMatrices\bin\Debug\netcoreapp3.1\MultiplyTwoMatrices.exe
+C:\codebits-academy\html5\C#\labtask5\MultiplyTwoMatrices\bin\Debug\netcoreapp3.1\MultiplyTwoMatrices.deps.json
+C:\codebits-academy\html5\C#\labtask5\MultiplyTwoMatrices\bin\Debug\netcoreapp3.1\MultiplyTwoMatrices.runtimeconfig.json
+C:\codebits-academy\html5\C#\labtask5\MultiplyTwoMatrices\bin\Debug\netcoreapp3.1\MultiplyTwoMatrices.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\labtask5\MultiplyTwoMatrices\bin\Debug\netcoreapp3.1\MultiplyTwoMatrices.dll
+C:\codebits-academy\html5\C#\labtask5\MultiplyTwoMatrices\bin\Debug\netcoreapp3.1\MultiplyTwoMatrices.pdb
+C:\codebits-academy\html5\C#\labtask5\MultiplyTwoMatrices\obj\Debug\netcoreapp3.1\MultiplyTwoMatrices.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\labtask5\MultiplyTwoMatrices\obj\Debug\netcoreapp3.1\MultiplyTwoMatrices.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\labtask5\MultiplyTwoMatrices\obj\Debug\netcoreapp3.1\MultiplyTwoMatrices.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\labtask5\MultiplyTwoMatrices\obj\Debug\netcoreapp3.1\MultiplyTwoMatrices.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\labtask5\MultiplyTwoMatrices\obj\Debug\netcoreapp3.1\MultiplyTwoMatrices.dll
+C:\codebits-academy\html5\C#\labtask5\MultiplyTwoMatrices\obj\Debug\netcoreapp3.1\MultiplyTwoMatrices.pdb
+C:\codebits-academy\html5\C#\labtask5\MultiplyTwoMatrices\obj\Debug\netcoreapp3.1\MultiplyTwoMatrices.genruntimeconfig.cache

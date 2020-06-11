@@ -1,0 +1,34 @@
+
+Create Model Class
+
+Create Interface
+
+Create DbContext class
+
+Create Class to Implement Interface
+	Add all implementation code
+
+Create Controller
+	Perform DI in controller for instance of object --> through Interface
+
+Modfiy Startup Class
+	Register Serives (Interface and Component)
+	Register Database Configuration String -- to UseSQLServer
+
+Modify AppSetting.json file
+	Add Database Connection to json file
+
+Perform Migration
+	Add Migration -- to create SQL Query need to perform database operation - like create table base on Model class
+	-	e.g Add-Migration InitialCreate
+	
+	Update-Migration -- to update or apply table to database in SQL Server
+	-	e.g Update-Database
+	
+Create View
+	Create, List
+	Create View for CRUD
+
+Test the application
+
+

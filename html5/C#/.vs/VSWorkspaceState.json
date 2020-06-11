@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\session11",
+    "\\session11\\DelegateTest",
+    "\\session11\\DelegateTest\\bin",
+    "\\session11\\DelegateTest\\obj",
+    "\\session11\\DelegateTest\\obj\\Debug\\netcoreapp3.1",
+    "\\session12",
+    "\\session12\\DelegateLambda"
+  ],
+  "SelectedNode": "\\session11\\DelegateTest\\obj",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Algorithm</title>
+</head>
+<body>
+    <h1>Algorithm</h1>
+    
+
+    <script>
+//1 Print all the integers from 1 to 255.
+//     function print1To255() {
+//     for (var i = 1; i <= 255; i++){
+//     document.write(`${i} , `);
+//     }
+// } print1To255()
+
+//2 Print integers from 0 to 255, and with each integer print the sum so far
+// function printIntsAndSum0To255(){
+//     var a = 1;
+//      for (var i = 0; i <=255; i++){
+//     var a = a + i -1;
+//     document.write(`${a} + ${i} = ${a + i},  `)
+// }
+// }printIntsAndSum0To255()
+
+//3 Given an array, find and print its largest element.
+// let a = [3,4,5,10,1,7,8,9,11];
+// let arr = [];
+// function printMaxOfArray(arr){
+// for (var i = 0; i <= a.length; i++){
+//     if(arr < a[i]){
+//         arr = a[i]
+//     }
+// }document.write(arr);
+// }printMaxOfArray(arr)
+
+
+//4 Create an array with all the odd integers between 1 and 255 (inclusive).
+// function returnOddsArray1To255(){
+// for (var i = 0; i <= 255; i++){
+//     if (i % 2 == 0){
+//         document.write(`${i + 1} , `)
+//     }
+// }
+// }
+// returnOddsArray1To255()
+
+//5 Given an array and a value Y, count and print the number of array values greater than Y.
+// let arr = [3, 6, 4, 8, 1, 2,11];
+// let y = 3;
+// let a =[];
+// function returnArrayCountGreaterThanY(arr, y){
+//     for (i = 0; i <= arr.length; i++){
+//         if (arr[i] > y){
+//              a.push(arr[i]);
+             
+//         }
+//     }document.write(` the arrays are ${a} and the numbers of array are ${a.length}`) 
+// }
+// returnArrayCountGreaterThanY(arr, y)
+
+//6 Given an array, print the max, min and average values for that array.
+// let arr = [2,3,11,9,5,6,8,1,10];
+// let max = [0];
+// let min = [0];
+// let average = 0;
+// function printMaxMinAverageArrayVals(arr){
+//     for (var i = 0; i < arr.length; i++){
+//         if (arr[i] > max){
+//             max = arr[i];
+//         }       
+//         if  (arr[i] < arr[0] ){
+//             min = arr[i];
+//         }
+//         average = average + arr[i];
+//     }
+//     document.write(`maximum is ${max} while minimum is ${min} and average is ${average/arr.length} `); 
+// }
+//  printMaxMinAverageArrayVals(arr);
+
+
+//7Given an array of numbers, replace any negative values with the string 'Codebits'.
+// let arr = [2,-3,11,-9,5,6,-8,1,-10];
+// let arrnum = [];
+// function swapStringForArrayNegativeVals(arr) {
+//     for (var i = 0; i < arr.length; i++){
+//         if (arr[i] < 0){
+//             arr[i] = "Codebits";
+//         }
+// }document.write(arr);
+
+// }swapStringForArrayNegativeVals(arr);
+
+
+
+
+//8Iterate through a given array, printing each value.
+// let arr = [2,-3,11,-9,5,6,-8,1,-10];
+// function printArrayVals(arr) {
+//     let arry = '';
+//     for (var i = 0; i < arr.length; i++){
+// arry = arr[i];
+//         document.write(arry + ', ');
+//     }
+   
+// } printArrayVals(arr);
+
+
+
+//9Square each value in a given array, returning that same array with changed values.
+let arr = [5,-3,11,-9,5,6,-8,1,-10];
+function squareArrayVals(arr){
+    for ( var i =0; i < arr.length; i++){
+        arr =arr + arr[i] * arr[i]
+        
+    }document.write(arr);
+} squareArrayVals(arr)
+
+
+    </script>
+</body>
+
+<!-- 
+
+For each, write a JavaScript function - a suggested function name is included below.
+Try to finish each of these challenges in less than two minutes.
+Print 1-255 
+print1To255()
+Print all the integers from 1 to 255.
+ 
+Print Ints and Sum 0-255 
+printIntsAndSum0To255()
+Print integers from 0 to 255, and with each integer print the sum so far.
+ 
+Print Max of Array 
+printMaxOfArray(arr)
+Given an array, find and print its largest element.
+ 
+Return Odds Array 1-255 
+returnOddsArray1To255()
+Create an array with all the odd integers between 1 and 255 (inclusive).
+ 
+Return Array Count Greater than Y 
+returnArrayCountGreaterThanY(arr, y)
+Given an array and a value Y, count and print the number of array values greater than Y.
+ 
+Print Max, Min, Average Array Values 
+printMaxMinAverageArrayVals(arr)
+Given an array, print the max, min and average values for that array.
+ 
+Swap String for Array Negative Values 
+swapStringForArrayNegativeVals(arr)
+Given an array of numbers, replace any negative values with the string 'Codebits'.
+ 
+Print Odds 1-255 
+printOdds1To255()Print all odd integers from 1 to 255.
+ 
+Print Array Values 
+printArrayVals(arr)
+Iterate through a given array, printing each value.
+ 
+Print Average of Array 
+printAverageOfArray(arr)
+Analyze an array’s values and print the average.
+ 
+Square Array Values 
+squareArrayVals(arr)
+Square each value in a given array, returning that same array with changed values.
+ 
+Zero Out Array Negative Numbers 
+zeroOutArrayNegativeVals(arr)
+Return the given array, after setting any negative values to zero.
+ 
+Shift Array Values Left 
+shiftArrayValsLeft(arr)
+Given an array, move all values forward (to the left) by one index, dropping the first value and leaving a 0 (zero) value at the end of the array.
+It is imperative at this point in the programme that you can rapidly complete these coding challenges. If you have not yet correctly answered each of them in under two minutes, then repeat until you can reliably finish each of them in less than two minutes. -->
+</html>

@@ -1,0 +1,14 @@
+#hamburger{
+    font-size: 35px;
+    cursor: pointer;
+}
+.top-panel{
+    position: relative;
+}
+.nav-panel{
+	position: absolute;
+    width: 100%;
+    height: 285px;
+    background-color: rgba(000, 000, 000, 0.5);
+    display: none;
+}

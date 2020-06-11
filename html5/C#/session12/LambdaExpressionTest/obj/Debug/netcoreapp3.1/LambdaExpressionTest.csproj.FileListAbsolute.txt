@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session12\LambdaExpressionTest\bin\Debug\netcoreapp3.1\LambdaExpressionTest.exe
+C:\codebits-academy\html5\C#\session12\LambdaExpressionTest\bin\Debug\netcoreapp3.1\LambdaExpressionTest.deps.json
+C:\codebits-academy\html5\C#\session12\LambdaExpressionTest\bin\Debug\netcoreapp3.1\LambdaExpressionTest.runtimeconfig.json
+C:\codebits-academy\html5\C#\session12\LambdaExpressionTest\bin\Debug\netcoreapp3.1\LambdaExpressionTest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session12\LambdaExpressionTest\bin\Debug\netcoreapp3.1\LambdaExpressionTest.dll
+C:\codebits-academy\html5\C#\session12\LambdaExpressionTest\bin\Debug\netcoreapp3.1\LambdaExpressionTest.pdb
+C:\codebits-academy\html5\C#\session12\LambdaExpressionTest\obj\Debug\netcoreapp3.1\LambdaExpressionTest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session12\LambdaExpressionTest\obj\Debug\netcoreapp3.1\LambdaExpressionTest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session12\LambdaExpressionTest\obj\Debug\netcoreapp3.1\LambdaExpressionTest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session12\LambdaExpressionTest\obj\Debug\netcoreapp3.1\LambdaExpressionTest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session12\LambdaExpressionTest\obj\Debug\netcoreapp3.1\LambdaExpressionTest.dll
+C:\codebits-academy\html5\C#\session12\LambdaExpressionTest\obj\Debug\netcoreapp3.1\LambdaExpressionTest.pdb
+C:\codebits-academy\html5\C#\session12\LambdaExpressionTest\obj\Debug\netcoreapp3.1\LambdaExpressionTest.genruntimeconfig.cache

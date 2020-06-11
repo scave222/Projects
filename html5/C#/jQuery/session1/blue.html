@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jQuery Append</title>
+    <script src="js/jquery.js"></script>
+    <style>
+        .red{color:red;}
+    </style>
+</head>
+<body>
+    <h1>jQuery Append</h1>
+<p id="lemon">Lemon drops biscuits and chocolate...</p>
+<button id="btn">Add Multiple CSS Properties to H1</button>
+
+<p class="red">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius itaque maiores fugit. Earum, deserunt doloribus nam recusandae accusamus eius ullam tempore quae! Cum culpa eveniet totam corrupti fugit, sed asperiores quaerat aspernatur.
+
+</p>
+<p id="para">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius itaque maiores fugit. Earum, deserunt doloribus nam recusandae accusamus eius ullam tempore quae! Cum culpa eveniet totam corrupti fugit, sed asperiores quaerat aspernatur.
+
+</p>
+<button id="btn2">Add red class</button>
+<script>
+    $(document).ready(function(){
+       $("#lemon").mousemove(function(){
+           $(this).append("cookies  ");
+       })
+        
+       $("#btn").click(function(){
+           $("h1").css({"background": "green", "padding": "10px"});
+           let sum = 5 + 3;
+           alert(`Properties added! \n \n  And i also performed some arithmethic
+            operation that gave a result of ${sum}`);
+       });
+
+       $("#btn2").click(function(){
+           $("#para").addClass("red");
+       })
+
+       $("p").click(function(){
+           $(this).hide("slow", function (){
+               $("#btn").fadeOut("slow", function(){
+                   alert("All actions completed!!");
+               })
+           })
+       })
+
+    })
+</script>
+</body>
+</html>

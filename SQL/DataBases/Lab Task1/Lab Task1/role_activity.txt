@@ -1,0 +1,14 @@
+Lab Task 2 - ER Modelling
+Submission: 2.00 p.m
+Softhills Technologies is an IT company located in Lagos. They recently secured a contract with a construction company to develop a Project Scheduling System using the following business rules;
+1) A project has a name, a city, and a state.
+2) An activity has a name, a starting date and ending date. An activity may be design, construction, quality assurance, etc.
+3) Each activity belongs to a single project, but a project may have one or more activities.
+4) A worker has a name.  Workers may be assigned to several projects and they have a specific role in each project, but the role may be different on each project. (Roles are different than activities.)
+5) Several workers may be working on the same project.
+6) There is a list of possible roles a worker may have in a project.  (A worker’s role must be on this list.)  The possible roles a worker may have are construction worker, manager, supervisor, or office management. 
+You are a new intern in the company and have been assigned to develop an E/R model of the database using the highlighted business rules.
+
+SELECT projects.project_name,workers.wrk_name,activities.activity,schedule.act_srt_date,schedule.act_end_date,roles.role FROM schedule INNER JOIN
+projects ON schedule.pro_id = projects.id INNER JOIN workers ON schedule.wrk_id = workers.id 
+INNER JOIN activities ON schedule.act_id = activities.id INNER JOIN roles ON schedule.role_id = roles.id

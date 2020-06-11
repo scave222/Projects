@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session11\queuetest\bin\Debug\netcoreapp3.1\QueueTest.exe
+C:\codebits-academy\html5\C#\session11\queuetest\bin\Debug\netcoreapp3.1\QueueTest.deps.json
+C:\codebits-academy\html5\C#\session11\queuetest\bin\Debug\netcoreapp3.1\QueueTest.runtimeconfig.json
+C:\codebits-academy\html5\C#\session11\queuetest\bin\Debug\netcoreapp3.1\QueueTest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session11\queuetest\bin\Debug\netcoreapp3.1\QueueTest.dll
+C:\codebits-academy\html5\C#\session11\queuetest\bin\Debug\netcoreapp3.1\QueueTest.pdb
+C:\codebits-academy\html5\C#\session11\queuetest\obj\Debug\netcoreapp3.1\QueueTest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session11\queuetest\obj\Debug\netcoreapp3.1\QueueTest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session11\queuetest\obj\Debug\netcoreapp3.1\QueueTest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session11\queuetest\obj\Debug\netcoreapp3.1\QueueTest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session11\queuetest\obj\Debug\netcoreapp3.1\QueueTest.dll
+C:\codebits-academy\html5\C#\session11\queuetest\obj\Debug\netcoreapp3.1\QueueTest.pdb
+C:\codebits-academy\html5\C#\session11\queuetest\obj\Debug\netcoreapp3.1\QueueTest.genruntimeconfig.cache

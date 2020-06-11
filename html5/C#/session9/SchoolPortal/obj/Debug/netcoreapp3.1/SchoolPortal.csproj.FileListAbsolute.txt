@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session9\schoolportal\obj\Debug\netcoreapp3.1\SchoolPortal.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session9\schoolportal\obj\Debug\netcoreapp3.1\SchoolPortal.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session9\schoolportal\obj\Debug\netcoreapp3.1\SchoolPortal.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session9\schoolportal\obj\Debug\netcoreapp3.1\SchoolPortal.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session9\schoolportal\bin\Debug\netcoreapp3.1\SchoolPortal.exe
+C:\codebits-academy\html5\C#\session9\schoolportal\bin\Debug\netcoreapp3.1\SchoolPortal.deps.json
+C:\codebits-academy\html5\C#\session9\schoolportal\bin\Debug\netcoreapp3.1\SchoolPortal.runtimeconfig.json
+C:\codebits-academy\html5\C#\session9\schoolportal\bin\Debug\netcoreapp3.1\SchoolPortal.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session9\schoolportal\bin\Debug\netcoreapp3.1\SchoolPortal.dll
+C:\codebits-academy\html5\C#\session9\schoolportal\bin\Debug\netcoreapp3.1\SchoolPortal.pdb
+C:\codebits-academy\html5\C#\session9\schoolportal\obj\Debug\netcoreapp3.1\SchoolPortal.dll
+C:\codebits-academy\html5\C#\session9\schoolportal\obj\Debug\netcoreapp3.1\SchoolPortal.pdb
+C:\codebits-academy\html5\C#\session9\schoolportal\obj\Debug\netcoreapp3.1\SchoolPortal.genruntimeconfig.cache

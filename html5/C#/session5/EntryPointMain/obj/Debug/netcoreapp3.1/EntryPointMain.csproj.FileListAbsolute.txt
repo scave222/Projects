@@ -1,0 +1,4 @@
+C:\codebits-academy\html5\C#\session5\EntryPointMain\obj\Debug\netcoreapp3.1\EntryPointMain.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session5\EntryPointMain\obj\Debug\netcoreapp3.1\EntryPointMain.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session5\EntryPointMain\obj\Debug\netcoreapp3.1\EntryPointMain.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session5\EntryPointMain\obj\Debug\netcoreapp3.1\EntryPointMain.AssemblyInfo.cs

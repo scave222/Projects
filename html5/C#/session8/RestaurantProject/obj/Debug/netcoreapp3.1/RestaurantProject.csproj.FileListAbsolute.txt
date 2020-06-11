@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session8\restaurantproject\bin\Debug\netcoreapp3.1\RestaurantProject.exe
+C:\codebits-academy\html5\C#\session8\restaurantproject\bin\Debug\netcoreapp3.1\RestaurantProject.deps.json
+C:\codebits-academy\html5\C#\session8\restaurantproject\bin\Debug\netcoreapp3.1\RestaurantProject.runtimeconfig.json
+C:\codebits-academy\html5\C#\session8\restaurantproject\bin\Debug\netcoreapp3.1\RestaurantProject.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session8\restaurantproject\bin\Debug\netcoreapp3.1\RestaurantProject.dll
+C:\codebits-academy\html5\C#\session8\restaurantproject\bin\Debug\netcoreapp3.1\RestaurantProject.pdb
+C:\codebits-academy\html5\C#\session8\restaurantproject\obj\Debug\netcoreapp3.1\RestaurantProject.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session8\restaurantproject\obj\Debug\netcoreapp3.1\RestaurantProject.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session8\restaurantproject\obj\Debug\netcoreapp3.1\RestaurantProject.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session8\restaurantproject\obj\Debug\netcoreapp3.1\RestaurantProject.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session8\restaurantproject\obj\Debug\netcoreapp3.1\RestaurantProject.dll
+C:\codebits-academy\html5\C#\session8\restaurantproject\obj\Debug\netcoreapp3.1\RestaurantProject.pdb
+C:\codebits-academy\html5\C#\session8\restaurantproject\obj\Debug\netcoreapp3.1\RestaurantProject.genruntimeconfig.cache

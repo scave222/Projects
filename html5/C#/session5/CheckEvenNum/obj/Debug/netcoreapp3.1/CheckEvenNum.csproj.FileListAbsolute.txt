@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session5\CheckEvenNum\obj\Debug\netcoreapp3.1\CheckEvenNum.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session5\CheckEvenNum\obj\Debug\netcoreapp3.1\CheckEvenNum.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session5\CheckEvenNum\obj\Debug\netcoreapp3.1\CheckEvenNum.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session5\CheckEvenNum\obj\Debug\netcoreapp3.1\CheckEvenNum.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session5\CheckEvenNum\obj\Debug\netcoreapp3.1\CheckEvenNum.dll
+C:\codebits-academy\html5\C#\session5\CheckEvenNum\obj\Debug\netcoreapp3.1\CheckEvenNum.pdb
+C:\codebits-academy\html5\C#\session5\CheckEvenNum\bin\Debug\netcoreapp3.1\CheckEvenNum.exe
+C:\codebits-academy\html5\C#\session5\CheckEvenNum\bin\Debug\netcoreapp3.1\CheckEvenNum.deps.json
+C:\codebits-academy\html5\C#\session5\CheckEvenNum\bin\Debug\netcoreapp3.1\CheckEvenNum.runtimeconfig.json
+C:\codebits-academy\html5\C#\session5\CheckEvenNum\bin\Debug\netcoreapp3.1\CheckEvenNum.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session5\CheckEvenNum\bin\Debug\netcoreapp3.1\CheckEvenNum.dll
+C:\codebits-academy\html5\C#\session5\CheckEvenNum\bin\Debug\netcoreapp3.1\CheckEvenNum.pdb
+C:\codebits-academy\html5\C#\session5\CheckEvenNum\obj\Debug\netcoreapp3.1\CheckEvenNum.genruntimeconfig.cache

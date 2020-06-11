@@ -1,0 +1,46 @@
+(1) SELECT year FROM population_years GROUP BY year;
+
+(2) SELECT country,population,year FROM population_years WHERE country = "Gabon" ORDER BY population DESC;
+ 
+(3) SELECT country,population,year FROM population_years WHERE year = 2005  ORDER BY population LIMIT 10;
+
+(4) SELECT country,population,year FROM population_years WHERE year = 2010 AND population > 100;
+
+(5) SELECT count(*) FROM population_years WHERE country like "%islands%" GROUP BY "country"; ANSWER = 11
+
+(6) SELECT p1.population - p2.population FROM population_years p2
+JOIN  population_years p1 ON p1.country = p2.country AND p1.year = 2010
+WHERE p2.country = 'Indonesia' AND p2.year = 2000;
+ 
+ OR
+
+ SELECT max(population) - min(population) FROM population_years WHERE year
+ in (2000,2010) AND country = "Indonesia" 
+
+(7)SELECT sum(population) FROM population_years;
+SELECT sum(population)FROM population_years WHERE country = "United States" OR country = "China" OR country = "India";
+ANSWER = 41,604,874,680 OR
+
+Question 2 There should be a separate entity for country,population and year.
+country should have fields like id,country_name,continent
+population should have fields like id,country_id, year_id, population, year
+
+SELECT DISTINCT year FROM population_years;
+SELECT country,population,year FROM population_years WHERE country = "Gabon" ORDER BY population DESC LIMIT 1;
+SELECT DISTINCT country FROM population_years WHERE year = 2005  ORDER BY population LIMIT 10;
+SELECT country,population,year FROM population_years WHERE year = 2010 AND population > 100;
+SELECT DISTINCT count(*) FROM population_years WHERE country like "%islands%" GROUP BY "country" LIMIT 1;
+SELECT country,population,year FROM population_years WHERE country = "Indonesia" AND year = 2000 OR  country = "Indonesia" AND year = 2010;
+SELECT sum(population) FROM population_years WHERE country != "United States" AND country != "China" AND country != "India" AND year = 2010;
+SELECT sum(population) FROM population_years WHERE country NOT IN ("United States","China" ,"India") AND year = 2010;
+
+//sub Query
+ SELECT sum(population) FROM population_years  WHERE country IN (SELECT
+ DISTINCT country FROM population_years WHERE country LIKE "%Islands%")
+ AND year = 2010;
+
+ SELECT workers.name,roles.role,activities.name,activities.start_date,
+activities.end_date FROM projects INNER JOIN workers ON
+projects.wrk_id = workers.id INNER JOIN roles ON projects.role_id = roles.id 
+INNER JOIN activities ON projects.act_id = activities.id
+

@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\classworks\Playground\Accounts\Accounts\bin\Debug\netcoreapp3.1\Accounts.exe
+C:\Users\hp\source\repos\classworks\Playground\Accounts\Accounts\bin\Debug\netcoreapp3.1\Accounts.deps.json
+C:\Users\hp\source\repos\classworks\Playground\Accounts\Accounts\bin\Debug\netcoreapp3.1\Accounts.runtimeconfig.json
+C:\Users\hp\source\repos\classworks\Playground\Accounts\Accounts\bin\Debug\netcoreapp3.1\Accounts.runtimeconfig.dev.json
+C:\Users\hp\source\repos\classworks\Playground\Accounts\Accounts\bin\Debug\netcoreapp3.1\Accounts.dll
+C:\Users\hp\source\repos\classworks\Playground\Accounts\Accounts\bin\Debug\netcoreapp3.1\Accounts.pdb
+C:\Users\hp\source\repos\classworks\Playground\Accounts\Accounts\obj\Debug\netcoreapp3.1\Accounts.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\classworks\Playground\Accounts\Accounts\obj\Debug\netcoreapp3.1\Accounts.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\classworks\Playground\Accounts\Accounts\obj\Debug\netcoreapp3.1\Accounts.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\classworks\Playground\Accounts\Accounts\obj\Debug\netcoreapp3.1\Accounts.AssemblyInfo.cs
+C:\Users\hp\source\repos\classworks\Playground\Accounts\Accounts\obj\Debug\netcoreapp3.1\Accounts.dll
+C:\Users\hp\source\repos\classworks\Playground\Accounts\Accounts\obj\Debug\netcoreapp3.1\Accounts.pdb
+C:\Users\hp\source\repos\classworks\Playground\Accounts\Accounts\obj\Debug\netcoreapp3.1\Accounts.genruntimeconfig.cache

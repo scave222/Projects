@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hotel Reservation Form</title>
+    <link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css"/>
+     <link rel="stylesheet" type="text/css" href="./css/styles.css"/>
+</head>
+<body>
+    <section class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <a href="#">
+                    <h1>Lafia Hotel</h1>
+                </a>
+            </div>
+            <div class="col-md-8 text-right pt-2">
+                <a href="#" id="menu">
+                    <h1>&#9776</h1>
+                </a>
+            </div>
+        </div>
+    </section>
+
+  <!-- navigation full screen -->
+
+<nav id="navPanel">
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Products</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">FAQ's</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+</nav>
+
+
+
+
+
+    <section class="jumbotron">
+        <div class="container">
+            <h1>Hotel Reservation Form</h1>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum, magnam nam cupiditate mollitia ipsum nobis perferendis, veritatis minima, assumenda magni a ipsam? Deserunt, ex laborum?
+            </p>
+        </div>
+    </section>
+
+
+
+    <section class="container">
+        <div class="row">
+            <div class="col-md-7">
+                <h1>Hotel</h1>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, ab?</p>
+                <form action="" id="reservationFrm">
+                    
+                   <div class="form-row">
+                       <div class="col-md-12 form-group">
+                           <input type="text" placeholder="Name" class="form-control" onfocus="styleControl(this,'#eee')" onblur="styleControl(this,'#fff')" />
+                       </div>
+                       <div class="col-md-6 form-group">
+                        <input type="date" placeholder="arrival data" class="form-control"/>
+                    </div>
+                    <div class="col-md-6 form-group">
+                          <input type="date" placeholder="departure date" class="form-control"/>
+                    </div>
+                   
+                   
+                    </div>
+                    <div class="form-row">
+                        <div class="col-md-12 form-group">
+                            <textarea name="" class="form-control" onfocus="styleControl(this,'#eee')" onblur="styleControl(this,'#fff')" ></textarea>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="col-md-12">
+                            <img src="./images/btn1.png" class="img-fluid" id="img" width="200" onclick="reservationFrm.submit();"
+                             onmouseout="changeImage(this,'./images/btn1.png')"
+                             onmouseover="changeImage(this, './images/btn2.png')" onmousedown="changeImage(this,'./images/btn3.png')"
+                              onmouseup="changeImage(this, './images/btn1.png')"/>
+                        </div>
+                    </div>
+                </form>
+
+            </div>
+     
+        <div class="col-md-5">
+            <h1>Other Contents</h1>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo repellendus minima cumque voluptatibus nostrum, iusto ea, ex, illum at nobis laboriosam mollitia quod ullam accusamus id numquam magni deleniti recusandae?</p>
+        </div>
+    </div>
+    </section>
+
+
+<script src="./js/jquery.js"></script>
+    <script src="./js/hotel.js"></script>
+</body>
+</html>

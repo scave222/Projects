@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\assignment2\invoices\obj\Debug\netcoreapp3.1\Invoices.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\assignment2\invoices\obj\Debug\netcoreapp3.1\Invoices.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\assignment2\invoices\obj\Debug\netcoreapp3.1\Invoices.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\assignment2\invoices\obj\Debug\netcoreapp3.1\Invoices.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\assignment2\Invoices\bin\Debug\netcoreapp3.1\Invoices.exe
+C:\codebits-academy\html5\C#\assignment2\Invoices\bin\Debug\netcoreapp3.1\Invoices.deps.json
+C:\codebits-academy\html5\C#\assignment2\Invoices\bin\Debug\netcoreapp3.1\Invoices.runtimeconfig.json
+C:\codebits-academy\html5\C#\assignment2\Invoices\bin\Debug\netcoreapp3.1\Invoices.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\assignment2\Invoices\bin\Debug\netcoreapp3.1\Invoices.dll
+C:\codebits-academy\html5\C#\assignment2\Invoices\bin\Debug\netcoreapp3.1\Invoices.pdb
+C:\codebits-academy\html5\C#\assignment2\Invoices\obj\Debug\netcoreapp3.1\Invoices.dll
+C:\codebits-academy\html5\C#\assignment2\Invoices\obj\Debug\netcoreapp3.1\Invoices.pdb
+C:\codebits-academy\html5\C#\assignment2\Invoices\obj\Debug\netcoreapp3.1\Invoices.genruntimeconfig.cache

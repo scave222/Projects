@@ -1,0 +1,230 @@
+.navbar-panel{
+	background-color: maroon;
+	
+}
+.navbar2{
+	position: fixed;
+	background-color: black;
+	z-index:9999;
+
+}
+.content {
+	padding: 16px;
+  }
+  
+  .sticky {
+	position: fixed;
+	top: 0;
+	width: 100%;
+  }
+  
+  .sticky + .content {
+	padding-top: 102px;
+  }
+
+.dropdown-menu ul li {
+	text-align: left;
+	color: maroon;
+	background-color: maroon;
+	
+}
+
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+	margin-top: 0; 
+	color: maroon;
+
+ }
+
+.log-panel{
+	height: 40px;
+	position: fixed;
+	color: white;
+}
+.logo-panel li{
+	padding-right: 20px;
+}
+
+.ourBusiness-panel{
+	padding-top: 10rem;
+}
+.btn1{
+	margin-top: px;
+	
+}
+.panel4{
+
+	height: 300px;
+}
+
+.award1{
+	margin-top: 1rem;
+}
+
+.btn{
+	color:white;
+	background-color: maroon;
+}
+
+.social ul li a{
+ margin-inline: 2px;
+}
+
+.navPanel {
+
+	background-image: url(../images/bg1.jpg);
+	height: 500px;
+	width: 100%;
+	background-position: center;
+     background-size: cover;
+
+}
+
+.right-banner{
+ padding-top:10px ;
+background-image: url(../images/banner2.png);
+background-position: center;
+background-size: cover;
+
+height:250px;
+width: 300%;
+}
+
+.center-panel{
+
+	background-color:rgb(240,240,240);
+	height: 700px;
+}
+
+.center-panel3{
+  padding-top: 2rem;
+}
+.img-card{
+	height: 90px;
+}
+.fa-btn{
+padding-left: 27px;
+}
+.card-title {
+	color: maroon;
+}
+.card-footer{
+	color: maroon;
+}
+
+.image-panel{
+background-image: url(../images/girl.jpg);
+background-position: center;
+background-size: cover;
+height:300px;
+width: 100%;
+
+}
+
+.btn3{
+	padding-bottom: 20rem;
+}
+
+.our-teamPanel
+{
+background-image: url(../images/ourTeam2.jpg);
+background-position: center;
+background-size: cover;
+
+height:500px;
+width: 100%
+
+}
+.hash{
+	color: maroon;
+}
+
+.carousel-inner{
+	height: 500px;
+width: 100%
+
+}
+.carousel-item img {
+	height: 250px;
+	width: 300px;
+	margin: 0;
+	padding-inline: 0;
+}
+.slide-panel{
+	position: relative;
+}
+#carousel-control-prev1{
+	position: absolute;
+	bottom: 40%;
+  left: 60%;
+  transform: translate(-40%, -40);
+  width: 92%;
+  
+}
+#carousel-control-prev2{
+	position: absolute;
+	top: 20%;
+  right: 60%;
+  transform: translate(-40%, -40%);
+  width: 50%;
+  
+}
+.footer-panel{
+	background: grey;}
+
+.hash{
+	color: maroon;
+}
+.text1{
+	color: white;
+
+
+	}
+	#your{
+		color: saddlebrown;
+	}
+	form label{
+		font-size: 18px;
+		font-weight: bold;
+	}
+	div.ironscan{
+		padding: 60px 0px;
+	}
+	.black{
+		background: #000;
+		font-size: 14px;
+		padding: 0 50px;
+		line-height: 30px;
+	}
+	a{
+		color: white;
+		text-decoration: none;
+	}
+	a:hover{
+		color: red;
+	}
+	ul{
+		list-style: none;
+	}
+	hr{
+		border: 1px solid grey;	
+		margin-bottom: 45px;	
+	}
+	.lined div p{
+		border-right: 1px solid white;	
+	}
+	.last div .p{
+		border-right: 1px solid white;
+	}
+
+	@media (max-width:500px){
+		.ourBusiness-panel{padding-top: 200px;}
+	}
+
+	@media (max-width:600px){
+		.award{padding-top: 100px;width: 150px;}
+	}
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+

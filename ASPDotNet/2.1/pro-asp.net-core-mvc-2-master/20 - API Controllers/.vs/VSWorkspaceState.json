@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiControllers",
+    "\\ApiControllers\\ApiControllers",
+    "\\ApiControllers\\ApiControllers\\Controllers",
+    "\\ApiControllers\\ApiControllers\\Models",
+    "\\ApiControllers\\ApiControllers\\obj",
+    "\\ApiControllers\\ApiControllers\\Properties",
+    "\\ApiControllers\\ApiControllers\\Views",
+    "\\ApiControllers\\ApiControllers\\Views\\Home"
+  ],
+  "SelectedNode": "\\ApiControllers\\ApiControllers.sln",
+  "PreviewInSolutionExplorer": false
+}

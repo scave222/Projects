@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session5\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session5\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session5\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session5\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session5\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.exe
+C:\codebits-academy\html5\C#\session5\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.deps.json
+C:\codebits-academy\html5\C#\session5\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.json
+C:\codebits-academy\html5\C#\session5\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session5\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.dll
+C:\codebits-academy\html5\C#\session5\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.pdb
+C:\codebits-academy\html5\C#\session5\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.dll
+C:\codebits-academy\html5\C#\session5\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.pdb
+C:\codebits-academy\html5\C#\session5\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.genruntimeconfig.cache

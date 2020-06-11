@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session4\ClassAverage\obj\Debug\netcoreapp3.1\ClassAverage.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session4\ClassAverage\obj\Debug\netcoreapp3.1\ClassAverage.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session4\ClassAverage\obj\Debug\netcoreapp3.1\ClassAverage.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session4\ClassAverage\obj\Debug\netcoreapp3.1\ClassAverage.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session4\ClassAverage\bin\Debug\netcoreapp3.1\ClassAverage.exe
+C:\codebits-academy\html5\C#\session4\ClassAverage\bin\Debug\netcoreapp3.1\ClassAverage.deps.json
+C:\codebits-academy\html5\C#\session4\ClassAverage\bin\Debug\netcoreapp3.1\ClassAverage.runtimeconfig.json
+C:\codebits-academy\html5\C#\session4\ClassAverage\bin\Debug\netcoreapp3.1\ClassAverage.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session4\ClassAverage\bin\Debug\netcoreapp3.1\ClassAverage.dll
+C:\codebits-academy\html5\C#\session4\ClassAverage\bin\Debug\netcoreapp3.1\ClassAverage.pdb
+C:\codebits-academy\html5\C#\session4\ClassAverage\obj\Debug\netcoreapp3.1\ClassAverage.dll
+C:\codebits-academy\html5\C#\session4\ClassAverage\obj\Debug\netcoreapp3.1\ClassAverage.pdb
+C:\codebits-academy\html5\C#\session4\ClassAverage\obj\Debug\netcoreapp3.1\ClassAverage.genruntimeconfig.cache

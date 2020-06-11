@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session6\StandardDeviation\obj\Debug\netcoreapp3.1\StandardDeviation.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session6\StandardDeviation\obj\Debug\netcoreapp3.1\StandardDeviation.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session6\StandardDeviation\obj\Debug\netcoreapp3.1\StandardDeviation.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session6\StandardDeviation\obj\Debug\netcoreapp3.1\StandardDeviation.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session6\StandardDeviation\bin\Debug\netcoreapp3.1\StandardDeviation.exe
+C:\codebits-academy\html5\C#\session6\StandardDeviation\bin\Debug\netcoreapp3.1\StandardDeviation.deps.json
+C:\codebits-academy\html5\C#\session6\StandardDeviation\bin\Debug\netcoreapp3.1\StandardDeviation.runtimeconfig.json
+C:\codebits-academy\html5\C#\session6\StandardDeviation\bin\Debug\netcoreapp3.1\StandardDeviation.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session6\StandardDeviation\bin\Debug\netcoreapp3.1\StandardDeviation.dll
+C:\codebits-academy\html5\C#\session6\StandardDeviation\bin\Debug\netcoreapp3.1\StandardDeviation.pdb
+C:\codebits-academy\html5\C#\session6\StandardDeviation\obj\Debug\netcoreapp3.1\StandardDeviation.dll
+C:\codebits-academy\html5\C#\session6\StandardDeviation\obj\Debug\netcoreapp3.1\StandardDeviation.pdb
+C:\codebits-academy\html5\C#\session6\StandardDeviation\obj\Debug\netcoreapp3.1\StandardDeviation.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session6\Swap\bin\Debug\netcoreapp3.1\Swap.exe
+C:\codebits-academy\html5\C#\session6\Swap\bin\Debug\netcoreapp3.1\Swap.deps.json
+C:\codebits-academy\html5\C#\session6\Swap\bin\Debug\netcoreapp3.1\Swap.runtimeconfig.json
+C:\codebits-academy\html5\C#\session6\Swap\bin\Debug\netcoreapp3.1\Swap.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session6\Swap\bin\Debug\netcoreapp3.1\Swap.dll
+C:\codebits-academy\html5\C#\session6\Swap\bin\Debug\netcoreapp3.1\Swap.pdb
+C:\codebits-academy\html5\C#\session6\Swap\obj\Debug\netcoreapp3.1\Swap.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session6\Swap\obj\Debug\netcoreapp3.1\Swap.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session6\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session6\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session6\Swap\obj\Debug\netcoreapp3.1\Swap.dll
+C:\codebits-academy\html5\C#\session6\Swap\obj\Debug\netcoreapp3.1\Swap.pdb
+C:\codebits-academy\html5\C#\session6\Swap\obj\Debug\netcoreapp3.1\Swap.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session2\GradeTest\obj\Debug\netcoreapp3.1\GradeTest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session2\GradeTest\obj\Debug\netcoreapp3.1\GradeTest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session2\GradeTest\obj\Debug\netcoreapp3.1\GradeTest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session2\GradeTest\obj\Debug\netcoreapp3.1\GradeTest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session2\GradeTest\bin\Debug\netcoreapp3.1\GradeTest.exe
+C:\codebits-academy\html5\C#\session2\GradeTest\bin\Debug\netcoreapp3.1\GradeTest.deps.json
+C:\codebits-academy\html5\C#\session2\GradeTest\bin\Debug\netcoreapp3.1\GradeTest.runtimeconfig.json
+C:\codebits-academy\html5\C#\session2\GradeTest\bin\Debug\netcoreapp3.1\GradeTest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session2\GradeTest\bin\Debug\netcoreapp3.1\GradeTest.dll
+C:\codebits-academy\html5\C#\session2\GradeTest\bin\Debug\netcoreapp3.1\GradeTest.pdb
+C:\codebits-academy\html5\C#\session2\GradeTest\obj\Debug\netcoreapp3.1\GradeTest.dll
+C:\codebits-academy\html5\C#\session2\GradeTest\obj\Debug\netcoreapp3.1\GradeTest.pdb
+C:\codebits-academy\html5\C#\session2\GradeTest\obj\Debug\netcoreapp3.1\GradeTest.genruntimeconfig.cache

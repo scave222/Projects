@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session10\interfacetest\obj\Debug\netcoreapp3.1\InterfaceTest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session10\interfacetest\obj\Debug\netcoreapp3.1\InterfaceTest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session10\interfacetest\obj\Debug\netcoreapp3.1\InterfaceTest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session10\interfacetest\obj\Debug\netcoreapp3.1\InterfaceTest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session10\interfacetest\bin\Debug\netcoreapp3.1\InterfaceTest.exe
+C:\codebits-academy\html5\C#\session10\interfacetest\bin\Debug\netcoreapp3.1\InterfaceTest.deps.json
+C:\codebits-academy\html5\C#\session10\interfacetest\bin\Debug\netcoreapp3.1\InterfaceTest.runtimeconfig.json
+C:\codebits-academy\html5\C#\session10\interfacetest\bin\Debug\netcoreapp3.1\InterfaceTest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session10\interfacetest\bin\Debug\netcoreapp3.1\InterfaceTest.dll
+C:\codebits-academy\html5\C#\session10\interfacetest\bin\Debug\netcoreapp3.1\InterfaceTest.pdb
+C:\codebits-academy\html5\C#\session10\interfacetest\obj\Debug\netcoreapp3.1\InterfaceTest.dll
+C:\codebits-academy\html5\C#\session10\interfacetest\obj\Debug\netcoreapp3.1\InterfaceTest.pdb
+C:\codebits-academy\html5\C#\session10\interfacetest\obj\Debug\netcoreapp3.1\InterfaceTest.genruntimeconfig.cache

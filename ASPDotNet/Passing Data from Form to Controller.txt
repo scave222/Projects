@@ -1,0 +1,48 @@
+Reading Form collection
+==========================
+To understand how the form collection can be accessed let's POST the above form to an action :
+
+<h1>Enter your name :</h1>
+
+<form asp-action="ProcessForm" asp-controller="Home" method="post">
+    <label for="firstName">First Name :</label>
+    <input type="text" name="firstname" />
+    <label for="lastName">Last Name :</label>
+    <input type="text" name="lastname" />
+    <input type="submit" value="Submit" />
+</form>
+
+<h4>@ViewBag.Message</h4>
+
+The above form consists of two text input fields and a submit button. The form is POSTed to the ProcessForm() action of the HomeController. The ProcessForm() action is shown below:
+
+public IActionResult GetForm()
+{
+ string firstName = HttpContext.Request.Form["firstname"];
+ string lastName = HttpContext.Request.Form["lastname"];
+ ViewBag.Message = $"Welcome {firstName} {lastName}!";
+ return View("Index");
+}
+
+
+If you run the application you will get results as shown earlier.
+
+
+
+Reading query string values
+===============================
+Now, change the method of the <form> element to GET and change the asp-action to ProcessQueryString.
+
+<form asp-action="ProcessQueryString"  asp-controller="Home" method="get">
+...
+</form>
+
+Since the form is now being submitted through GET request, the values will be sent through query string. To access these values on the server you need to write ProcessQueryString() action as follows :
+
+public IActionResult ProcessQueryString()
+{
+ string firstName = HttpContext.Request.Query["firstname"];
+ string lastName = HttpContext.Request.Query["lastname"];
+ ViewBag.Message = $"Welcome {firstName} {lastName}!";
+ return View("Index");
+}

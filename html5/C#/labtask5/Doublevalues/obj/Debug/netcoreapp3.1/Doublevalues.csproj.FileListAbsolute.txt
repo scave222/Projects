@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\labtask5\doublevalues\bin\Debug\netcoreapp3.1\Doublevalues.exe
+C:\codebits-academy\html5\C#\labtask5\doublevalues\bin\Debug\netcoreapp3.1\Doublevalues.deps.json
+C:\codebits-academy\html5\C#\labtask5\doublevalues\bin\Debug\netcoreapp3.1\Doublevalues.runtimeconfig.json
+C:\codebits-academy\html5\C#\labtask5\doublevalues\bin\Debug\netcoreapp3.1\Doublevalues.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\labtask5\doublevalues\bin\Debug\netcoreapp3.1\Doublevalues.dll
+C:\codebits-academy\html5\C#\labtask5\doublevalues\bin\Debug\netcoreapp3.1\Doublevalues.pdb
+C:\codebits-academy\html5\C#\labtask5\doublevalues\obj\Debug\netcoreapp3.1\Doublevalues.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\labtask5\doublevalues\obj\Debug\netcoreapp3.1\Doublevalues.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\labtask5\doublevalues\obj\Debug\netcoreapp3.1\Doublevalues.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\labtask5\doublevalues\obj\Debug\netcoreapp3.1\Doublevalues.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\labtask5\doublevalues\obj\Debug\netcoreapp3.1\Doublevalues.dll
+C:\codebits-academy\html5\C#\labtask5\doublevalues\obj\Debug\netcoreapp3.1\Doublevalues.pdb
+C:\codebits-academy\html5\C#\labtask5\doublevalues\obj\Debug\netcoreapp3.1\Doublevalues.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session1\oddOrNew\bin\Debug\netcoreapp3.1\oddOrNew.exe
+C:\codebits-academy\html5\C#\session1\oddOrNew\bin\Debug\netcoreapp3.1\oddOrNew.deps.json
+C:\codebits-academy\html5\C#\session1\oddOrNew\bin\Debug\netcoreapp3.1\oddOrNew.runtimeconfig.json
+C:\codebits-academy\html5\C#\session1\oddOrNew\bin\Debug\netcoreapp3.1\oddOrNew.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session1\oddOrNew\bin\Debug\netcoreapp3.1\oddOrNew.dll
+C:\codebits-academy\html5\C#\session1\oddOrNew\bin\Debug\netcoreapp3.1\oddOrNew.pdb
+C:\codebits-academy\html5\C#\session1\oddOrNew\obj\Debug\netcoreapp3.1\oddOrNew.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session1\oddOrNew\obj\Debug\netcoreapp3.1\oddOrNew.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session1\oddOrNew\obj\Debug\netcoreapp3.1\oddOrNew.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session1\oddOrNew\obj\Debug\netcoreapp3.1\oddOrNew.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session1\oddOrNew\obj\Debug\netcoreapp3.1\oddOrNew.dll
+C:\codebits-academy\html5\C#\session1\oddOrNew\obj\Debug\netcoreapp3.1\oddOrNew.pdb
+C:\codebits-academy\html5\C#\session1\oddOrNew\obj\Debug\netcoreapp3.1\oddOrNew.genruntimeconfig.cache

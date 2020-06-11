@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session7\FailArray\bin\Debug\netcoreapp3.1\FailArray.exe
+C:\codebits-academy\html5\C#\session7\FailArray\bin\Debug\netcoreapp3.1\FailArray.deps.json
+C:\codebits-academy\html5\C#\session7\FailArray\bin\Debug\netcoreapp3.1\FailArray.runtimeconfig.json
+C:\codebits-academy\html5\C#\session7\FailArray\bin\Debug\netcoreapp3.1\FailArray.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session7\FailArray\bin\Debug\netcoreapp3.1\FailArray.dll
+C:\codebits-academy\html5\C#\session7\FailArray\bin\Debug\netcoreapp3.1\FailArray.pdb
+C:\codebits-academy\html5\C#\session7\FailArray\obj\Debug\netcoreapp3.1\FailArray.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session7\FailArray\obj\Debug\netcoreapp3.1\FailArray.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session7\FailArray\obj\Debug\netcoreapp3.1\FailArray.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session7\FailArray\obj\Debug\netcoreapp3.1\FailArray.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session7\FailArray\obj\Debug\netcoreapp3.1\FailArray.dll
+C:\codebits-academy\html5\C#\session7\FailArray\obj\Debug\netcoreapp3.1\FailArray.pdb
+C:\codebits-academy\html5\C#\session7\FailArray\obj\Debug\netcoreapp3.1\FailArray.genruntimeconfig.cache

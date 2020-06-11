@@ -1,0 +1,4 @@
+C:\codebits-academy\html5\C#\assignment2\personal\obj\Debug\netcoreapp3.1\personal.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\assignment2\personal\obj\Debug\netcoreapp3.1\personal.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\assignment2\personal\obj\Debug\netcoreapp3.1\personal.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\assignment2\personal\obj\Debug\netcoreapp3.1\personal.AssemblyInfo.cs

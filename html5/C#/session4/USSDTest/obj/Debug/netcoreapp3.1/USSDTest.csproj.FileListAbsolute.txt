@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session4\USSDTest\bin\Debug\netcoreapp3.1\USSDTest.exe
+C:\codebits-academy\html5\C#\session4\USSDTest\bin\Debug\netcoreapp3.1\USSDTest.deps.json
+C:\codebits-academy\html5\C#\session4\USSDTest\bin\Debug\netcoreapp3.1\USSDTest.runtimeconfig.json
+C:\codebits-academy\html5\C#\session4\USSDTest\bin\Debug\netcoreapp3.1\USSDTest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session4\USSDTest\bin\Debug\netcoreapp3.1\USSDTest.dll
+C:\codebits-academy\html5\C#\session4\USSDTest\bin\Debug\netcoreapp3.1\USSDTest.pdb
+C:\codebits-academy\html5\C#\session4\USSDTest\obj\Debug\netcoreapp3.1\USSDTest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session4\USSDTest\obj\Debug\netcoreapp3.1\USSDTest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session4\USSDTest\obj\Debug\netcoreapp3.1\USSDTest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session4\USSDTest\obj\Debug\netcoreapp3.1\USSDTest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session4\USSDTest\obj\Debug\netcoreapp3.1\USSDTest.dll
+C:\codebits-academy\html5\C#\session4\USSDTest\obj\Debug\netcoreapp3.1\USSDTest.pdb
+C:\codebits-academy\html5\C#\session4\USSDTest\obj\Debug\netcoreapp3.1\USSDTest.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session5\RandomFreqTest\obj\Debug\netcoreapp3.1\RandomFreqTest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session5\RandomFreqTest\obj\Debug\netcoreapp3.1\RandomFreqTest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session5\RandomFreqTest\obj\Debug\netcoreapp3.1\RandomFreqTest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session5\RandomFreqTest\obj\Debug\netcoreapp3.1\RandomFreqTest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session5\RandomFreqTest\bin\Debug\netcoreapp3.1\RandomFreqTest.exe
+C:\codebits-academy\html5\C#\session5\RandomFreqTest\bin\Debug\netcoreapp3.1\RandomFreqTest.deps.json
+C:\codebits-academy\html5\C#\session5\RandomFreqTest\bin\Debug\netcoreapp3.1\RandomFreqTest.runtimeconfig.json
+C:\codebits-academy\html5\C#\session5\RandomFreqTest\bin\Debug\netcoreapp3.1\RandomFreqTest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session5\RandomFreqTest\bin\Debug\netcoreapp3.1\RandomFreqTest.dll
+C:\codebits-academy\html5\C#\session5\RandomFreqTest\bin\Debug\netcoreapp3.1\RandomFreqTest.pdb
+C:\codebits-academy\html5\C#\session5\RandomFreqTest\obj\Debug\netcoreapp3.1\RandomFreqTest.dll
+C:\codebits-academy\html5\C#\session5\RandomFreqTest\obj\Debug\netcoreapp3.1\RandomFreqTest.pdb
+C:\codebits-academy\html5\C#\session5\RandomFreqTest\obj\Debug\netcoreapp3.1\RandomFreqTest.genruntimeconfig.cache

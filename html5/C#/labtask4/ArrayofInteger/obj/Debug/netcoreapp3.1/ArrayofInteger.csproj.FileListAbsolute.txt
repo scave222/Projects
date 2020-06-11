@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session6\Arrayofinteger\bin\Debug\netcoreapp3.1\ArrayofInteger.exe
+C:\codebits-academy\html5\C#\session6\Arrayofinteger\bin\Debug\netcoreapp3.1\ArrayofInteger.deps.json
+C:\codebits-academy\html5\C#\session6\Arrayofinteger\bin\Debug\netcoreapp3.1\ArrayofInteger.runtimeconfig.json
+C:\codebits-academy\html5\C#\session6\Arrayofinteger\bin\Debug\netcoreapp3.1\ArrayofInteger.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session6\Arrayofinteger\bin\Debug\netcoreapp3.1\ArrayofInteger.dll
+C:\codebits-academy\html5\C#\session6\Arrayofinteger\bin\Debug\netcoreapp3.1\ArrayofInteger.pdb
+C:\codebits-academy\html5\C#\session6\Arrayofinteger\obj\Debug\netcoreapp3.1\ArrayofInteger.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session6\Arrayofinteger\obj\Debug\netcoreapp3.1\ArrayofInteger.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session6\Arrayofinteger\obj\Debug\netcoreapp3.1\ArrayofInteger.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session6\Arrayofinteger\obj\Debug\netcoreapp3.1\ArrayofInteger.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session6\Arrayofinteger\obj\Debug\netcoreapp3.1\ArrayofInteger.dll
+C:\codebits-academy\html5\C#\session6\Arrayofinteger\obj\Debug\netcoreapp3.1\ArrayofInteger.pdb
+C:\codebits-academy\html5\C#\session6\Arrayofinteger\obj\Debug\netcoreapp3.1\ArrayofInteger.genruntimeconfig.cache

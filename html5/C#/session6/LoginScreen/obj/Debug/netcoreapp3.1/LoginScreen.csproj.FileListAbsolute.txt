@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session6\LoginScreen\bin\Debug\netcoreapp3.1\LoginScreen.exe
+C:\codebits-academy\html5\C#\session6\LoginScreen\bin\Debug\netcoreapp3.1\LoginScreen.deps.json
+C:\codebits-academy\html5\C#\session6\LoginScreen\bin\Debug\netcoreapp3.1\LoginScreen.runtimeconfig.json
+C:\codebits-academy\html5\C#\session6\LoginScreen\bin\Debug\netcoreapp3.1\LoginScreen.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session6\LoginScreen\bin\Debug\netcoreapp3.1\LoginScreen.dll
+C:\codebits-academy\html5\C#\session6\LoginScreen\bin\Debug\netcoreapp3.1\LoginScreen.pdb
+C:\codebits-academy\html5\C#\session6\LoginScreen\obj\Debug\netcoreapp3.1\LoginScreen.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session6\LoginScreen\obj\Debug\netcoreapp3.1\LoginScreen.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session6\LoginScreen\obj\Debug\netcoreapp3.1\LoginScreen.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session6\LoginScreen\obj\Debug\netcoreapp3.1\LoginScreen.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session6\LoginScreen\obj\Debug\netcoreapp3.1\LoginScreen.dll
+C:\codebits-academy\html5\C#\session6\LoginScreen\obj\Debug\netcoreapp3.1\LoginScreen.pdb
+C:\codebits-academy\html5\C#\session6\LoginScreen\obj\Debug\netcoreapp3.1\LoginScreen.genruntimeconfig.cache

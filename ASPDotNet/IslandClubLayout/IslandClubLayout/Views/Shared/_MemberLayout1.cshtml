@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/css/myCustomCss.css" rel="stylesheet" />
+</head>
+
+<body>
+    <table width="200">
+        <thead>
+            <tr>
+                
+                <td>
+                    <h2>Island Club</h2>
+                    <h4>Lagos</h4>
+                    <h4>Navigation Links</h4>
+                </td>
+            </tr>
+           
+        </thead>
+       <tbody>
+           <tr>
+              
+               <td>
+                   <div>
+
+                       @*@RenderSection("Top");*@
+                       <div>
+                           @if (IsSectionDefined("Top"))
+                           {
+                               RenderSection("Top");
+                           }
+                           else
+                           {
+                               <span>This is the default section message</span>
+                           }
+                       </div>
+
+                       <br />
+                       @RenderBody();
+                       @RenderSection("Scripts", required:false);
+                   </div>
+               </td>
+
+
+
+           </tr>
+       </tbody>
+        <tfoot>
+            <tr>
+                <td>
+                    <h5>&copy; 2020 Island Club Society</h5>
+                    <h4>Navigation Links</h4>
+                </td>
+            </tr>
+        </tfoot>
+      
+    </table>
+ 
+</body>
+</html>

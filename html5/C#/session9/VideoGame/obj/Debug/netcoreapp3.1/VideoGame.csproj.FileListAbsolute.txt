@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session9\videogame\obj\Debug\netcoreapp3.1\VideoGame.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session9\videogame\obj\Debug\netcoreapp3.1\VideoGame.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session9\videogame\obj\Debug\netcoreapp3.1\VideoGame.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session9\videogame\obj\Debug\netcoreapp3.1\VideoGame.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session9\videogame\bin\Debug\netcoreapp3.1\VideoGame.exe
+C:\codebits-academy\html5\C#\session9\videogame\bin\Debug\netcoreapp3.1\VideoGame.deps.json
+C:\codebits-academy\html5\C#\session9\videogame\bin\Debug\netcoreapp3.1\VideoGame.runtimeconfig.json
+C:\codebits-academy\html5\C#\session9\videogame\bin\Debug\netcoreapp3.1\VideoGame.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session9\videogame\bin\Debug\netcoreapp3.1\VideoGame.dll
+C:\codebits-academy\html5\C#\session9\videogame\bin\Debug\netcoreapp3.1\VideoGame.pdb
+C:\codebits-academy\html5\C#\session9\videogame\obj\Debug\netcoreapp3.1\VideoGame.dll
+C:\codebits-academy\html5\C#\session9\videogame\obj\Debug\netcoreapp3.1\VideoGame.pdb
+C:\codebits-academy\html5\C#\session9\videogame\obj\Debug\netcoreapp3.1\VideoGame.genruntimeconfig.cache

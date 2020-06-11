@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eLibrary App</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css"  href="css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css"  href="css/custom.css">
+</head>
+<body onload="render()">
+<section class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <a href="index.html">
+                <h1>Codebits eLibrary</h1>
+            </a>
+        </div>
+
+        <div class="col-md-8">
+            <span class="btn btn-primary float-right mt-2" id="addBtn">Add New Book</span>
+        </div>
+    </div>
+</section>
+
+
+<!-- custom modal for adding new books -->
+<section id="bookModal" class="container-fluid">
+    <div class="row">
+        <div class="col-md-4 col-lg-3"></div>
+        <div class="col-md-4 col-lg-6">
+            <form action="">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Book Title"  autofocus=""
+                    id="txtTitle">
+                </div>
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Book Publisher"
+                    id="txtPub">
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group col-md-6" >
+                        <input type="number" class="form-control" placeholder="pages"
+                        id="txtPages">  
+                    </div>
+                    <div class="form-group col-md-6" >
+                        <input type="number" class="form-control" placeholder="Year of Publishing"
+                        id="txtPubYear">  
+                    </div>
+                </div>
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Book Cover Image URL"
+                    id="txtCoverURL">
+                </div>
+    
+                <div class="form-group">
+                    <input type="button" class="form-control btn btn-primary btn-block" value="Add Book" 
+                    id="newBookBtn">
+                </div>
+                <div class="form-group">
+                    <input type="button" class="form-control btn btn-primary btn-block" value="Cancel" 
+                    id="cancelBtn">
+                 </div>
+            </form>
+        </div>
+        <div class="col-md-4 col-lg-3"></div>
+    </div>
+</section>
+
+
+<!-- custom modal for adding new books -->
+
+<section class="container-fluid">
+    <div class="row ">
+        <div class="col-md-12 no-padding-sides">
+            <ul class="slider">
+                <li class="slide active">
+                    <div class="content">
+                        <h1>Exercise your brain</h1>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                        Deleniti tempora perferendis animi obcaecati?</p>
+                    </div>
+                </li>
+                <li class="slide">
+                    <div class="content">
+                        <h1>Build your Future</h1>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                        Deleniti tempora perferendis animi obcaecati?</p>
+                    </div>
+                </li>
+                <li class="slide ">
+                    <div class="content">
+                        <h1>Acheive your goal</h1>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                        Deleniti tempora perferendis animi obcaecati?</p>
+                    </div>
+                </li>
+                <li class="slide">
+                    <div class="content">
+                        <h1>Upskill yourself through book</h1>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                        Deleniti tempora perferendis animi obcaecati?</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<section class="container pt-5">
+    <h1 class="text-center">Available Books</h1>
+    <div class="row" id="bookRow">
+        
+
+    </div>
+</section>
+
+
+
+
+
+    
+<script src="js/custom.js"></script>
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>

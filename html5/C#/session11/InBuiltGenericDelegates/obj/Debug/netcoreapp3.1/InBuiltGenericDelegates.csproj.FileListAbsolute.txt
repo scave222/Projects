@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session11\InBuiltGenericDelegates\bin\Debug\netcoreapp3.1\InBuiltGenericDelegates.exe
+C:\codebits-academy\html5\C#\session11\InBuiltGenericDelegates\bin\Debug\netcoreapp3.1\InBuiltGenericDelegates.deps.json
+C:\codebits-academy\html5\C#\session11\InBuiltGenericDelegates\bin\Debug\netcoreapp3.1\InBuiltGenericDelegates.runtimeconfig.json
+C:\codebits-academy\html5\C#\session11\InBuiltGenericDelegates\bin\Debug\netcoreapp3.1\InBuiltGenericDelegates.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session11\InBuiltGenericDelegates\bin\Debug\netcoreapp3.1\InBuiltGenericDelegates.dll
+C:\codebits-academy\html5\C#\session11\InBuiltGenericDelegates\bin\Debug\netcoreapp3.1\InBuiltGenericDelegates.pdb
+C:\codebits-academy\html5\C#\session11\InBuiltGenericDelegates\obj\Debug\netcoreapp3.1\InBuiltGenericDelegates.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session11\InBuiltGenericDelegates\obj\Debug\netcoreapp3.1\InBuiltGenericDelegates.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session11\InBuiltGenericDelegates\obj\Debug\netcoreapp3.1\InBuiltGenericDelegates.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session11\InBuiltGenericDelegates\obj\Debug\netcoreapp3.1\InBuiltGenericDelegates.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session11\InBuiltGenericDelegates\obj\Debug\netcoreapp3.1\InBuiltGenericDelegates.dll
+C:\codebits-academy\html5\C#\session11\InBuiltGenericDelegates\obj\Debug\netcoreapp3.1\InBuiltGenericDelegates.pdb
+C:\codebits-academy\html5\C#\session11\InBuiltGenericDelegates\obj\Debug\netcoreapp3.1\InBuiltGenericDelegates.genruntimeconfig.cache

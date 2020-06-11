@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session6\ArrayDivisibility\obj\Debug\netcoreapp3.1\ArrayDivisibility.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session6\ArrayDivisibility\obj\Debug\netcoreapp3.1\ArrayDivisibility.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session6\ArrayDivisibility\obj\Debug\netcoreapp3.1\ArrayDivisibility.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session6\ArrayDivisibility\obj\Debug\netcoreapp3.1\ArrayDivisibility.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session6\ArrayDivisibility\bin\Debug\netcoreapp3.1\ArrayDivisibility.exe
+C:\codebits-academy\html5\C#\session6\ArrayDivisibility\bin\Debug\netcoreapp3.1\ArrayDivisibility.deps.json
+C:\codebits-academy\html5\C#\session6\ArrayDivisibility\bin\Debug\netcoreapp3.1\ArrayDivisibility.runtimeconfig.json
+C:\codebits-academy\html5\C#\session6\ArrayDivisibility\bin\Debug\netcoreapp3.1\ArrayDivisibility.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session6\ArrayDivisibility\bin\Debug\netcoreapp3.1\ArrayDivisibility.dll
+C:\codebits-academy\html5\C#\session6\ArrayDivisibility\bin\Debug\netcoreapp3.1\ArrayDivisibility.pdb
+C:\codebits-academy\html5\C#\session6\ArrayDivisibility\obj\Debug\netcoreapp3.1\ArrayDivisibility.dll
+C:\codebits-academy\html5\C#\session6\ArrayDivisibility\obj\Debug\netcoreapp3.1\ArrayDivisibility.pdb
+C:\codebits-academy\html5\C#\session6\ArrayDivisibility\obj\Debug\netcoreapp3.1\ArrayDivisibility.genruntimeconfig.cache

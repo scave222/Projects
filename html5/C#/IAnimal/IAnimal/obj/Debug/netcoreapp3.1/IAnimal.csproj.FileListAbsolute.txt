@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\classworks\session10\IAnimal\IAnimal\bin\Debug\netcoreapp3.1\IAnimal.exe
+C:\Users\hp\source\repos\classworks\session10\IAnimal\IAnimal\bin\Debug\netcoreapp3.1\IAnimal.deps.json
+C:\Users\hp\source\repos\classworks\session10\IAnimal\IAnimal\bin\Debug\netcoreapp3.1\IAnimal.runtimeconfig.json
+C:\Users\hp\source\repos\classworks\session10\IAnimal\IAnimal\bin\Debug\netcoreapp3.1\IAnimal.runtimeconfig.dev.json
+C:\Users\hp\source\repos\classworks\session10\IAnimal\IAnimal\bin\Debug\netcoreapp3.1\IAnimal.dll
+C:\Users\hp\source\repos\classworks\session10\IAnimal\IAnimal\bin\Debug\netcoreapp3.1\IAnimal.pdb
+C:\Users\hp\source\repos\classworks\session10\IAnimal\IAnimal\obj\Debug\netcoreapp3.1\IAnimal.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\classworks\session10\IAnimal\IAnimal\obj\Debug\netcoreapp3.1\IAnimal.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\classworks\session10\IAnimal\IAnimal\obj\Debug\netcoreapp3.1\IAnimal.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\classworks\session10\IAnimal\IAnimal\obj\Debug\netcoreapp3.1\IAnimal.AssemblyInfo.cs
+C:\Users\hp\source\repos\classworks\session10\IAnimal\IAnimal\obj\Debug\netcoreapp3.1\IAnimal.dll
+C:\Users\hp\source\repos\classworks\session10\IAnimal\IAnimal\obj\Debug\netcoreapp3.1\IAnimal.pdb
+C:\Users\hp\source\repos\classworks\session10\IAnimal\IAnimal\obj\Debug\netcoreapp3.1\IAnimal.genruntimeconfig.cache

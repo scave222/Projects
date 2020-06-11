@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session7\gradebooktest\bin\Debug\netcoreapp3.1\GradeBookTest.exe
+C:\codebits-academy\html5\C#\session7\gradebooktest\bin\Debug\netcoreapp3.1\GradeBookTest.deps.json
+C:\codebits-academy\html5\C#\session7\gradebooktest\bin\Debug\netcoreapp3.1\GradeBookTest.runtimeconfig.json
+C:\codebits-academy\html5\C#\session7\gradebooktest\bin\Debug\netcoreapp3.1\GradeBookTest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session7\gradebooktest\bin\Debug\netcoreapp3.1\GradeBookTest.dll
+C:\codebits-academy\html5\C#\session7\gradebooktest\bin\Debug\netcoreapp3.1\GradeBookTest.pdb
+C:\codebits-academy\html5\C#\session7\gradebooktest\obj\Debug\netcoreapp3.1\GradeBookTest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session7\gradebooktest\obj\Debug\netcoreapp3.1\GradeBookTest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session7\gradebooktest\obj\Debug\netcoreapp3.1\GradeBookTest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session7\gradebooktest\obj\Debug\netcoreapp3.1\GradeBookTest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session7\gradebooktest\obj\Debug\netcoreapp3.1\GradeBookTest.dll
+C:\codebits-academy\html5\C#\session7\gradebooktest\obj\Debug\netcoreapp3.1\GradeBookTest.pdb
+C:\codebits-academy\html5\C#\session7\gradebooktest\obj\Debug\netcoreapp3.1\GradeBookTest.genruntimeconfig.cache

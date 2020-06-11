@@ -1,0 +1,17 @@
+Questions 1
+===========
+Add Edit functionality to CodeBits College application
+Add new column call PhotoPath to Model class created in CodeBits College application, then apply the Migration to update the database. 
+Update Employee Registration form to upload employee image.
+Question 2
+===========
+Create a APS.NET MVC Core CRUD application to manager the record of Job Seeker. Initialize a database with sample data.
+Question 4
+===========
+Create a new Controller called Account to to perform CRUD operation manager users records. Use the following information for model class called SystemUsers (Id, Username, Password, Email, Status, Role)
+Implement Login functionality
+Question 5
+==========
+Add new model called Department with the following fields Department Id, Department Name to CodeBits College application
+Implement relationship with existing Employee then create complete CRUD operation
+Create new View that will display employee detail and their department, using LINQ query. 

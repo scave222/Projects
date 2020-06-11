@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session1\gross\bin\Debug\netcoreapp3.1\gross.exe
+C:\codebits-academy\html5\C#\session1\gross\bin\Debug\netcoreapp3.1\gross.deps.json
+C:\codebits-academy\html5\C#\session1\gross\bin\Debug\netcoreapp3.1\gross.runtimeconfig.json
+C:\codebits-academy\html5\C#\session1\gross\bin\Debug\netcoreapp3.1\gross.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session1\gross\bin\Debug\netcoreapp3.1\gross.dll
+C:\codebits-academy\html5\C#\session1\gross\bin\Debug\netcoreapp3.1\gross.pdb
+C:\codebits-academy\html5\C#\session1\gross\obj\Debug\netcoreapp3.1\gross.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session1\gross\obj\Debug\netcoreapp3.1\gross.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session1\gross\obj\Debug\netcoreapp3.1\gross.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session1\gross\obj\Debug\netcoreapp3.1\gross.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session1\gross\obj\Debug\netcoreapp3.1\gross.dll
+C:\codebits-academy\html5\C#\session1\gross\obj\Debug\netcoreapp3.1\gross.pdb
+C:\codebits-academy\html5\C#\session1\gross\obj\Debug\netcoreapp3.1\gross.genruntimeconfig.cache

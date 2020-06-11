@@ -1,0 +1,5 @@
+
+SELECT customer.customer_name, customer.customer_phone, movies.movie_title
+FROM  customer INNER JOIN transactions on transactions.customer_id = customer.id INNER JOIN movies on 
+transactions.movies_id = movies.id WHERE transactions.movies_id = 5;
+ 

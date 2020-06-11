@@ -1,0 +1,26 @@
+using System;
+
+namespace QueueTest
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Horse horse = new Horse();
+            Lion lion = new Lion();
+
+            Queue  queue = new Queue();
+
+            queue.QueueItem(lion);
+            queue.QueueItem(horse);
+
+            var myLion = queue.DeQueueItem() as Lion;
+            Console.WriteLine(myLion.sayHello());
+
+
+            
+        }
+    }
+}
+
+

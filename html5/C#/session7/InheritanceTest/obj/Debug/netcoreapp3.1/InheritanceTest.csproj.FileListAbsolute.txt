@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session7\inheritancetest\bin\Debug\netcoreapp3.1\InheritanceTest.exe
+C:\codebits-academy\html5\C#\session7\inheritancetest\bin\Debug\netcoreapp3.1\InheritanceTest.deps.json
+C:\codebits-academy\html5\C#\session7\inheritancetest\bin\Debug\netcoreapp3.1\InheritanceTest.runtimeconfig.json
+C:\codebits-academy\html5\C#\session7\inheritancetest\bin\Debug\netcoreapp3.1\InheritanceTest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session7\inheritancetest\bin\Debug\netcoreapp3.1\InheritanceTest.dll
+C:\codebits-academy\html5\C#\session7\inheritancetest\bin\Debug\netcoreapp3.1\InheritanceTest.pdb
+C:\codebits-academy\html5\C#\session7\inheritancetest\obj\Debug\netcoreapp3.1\InheritanceTest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session7\inheritancetest\obj\Debug\netcoreapp3.1\InheritanceTest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session7\inheritancetest\obj\Debug\netcoreapp3.1\InheritanceTest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session7\inheritancetest\obj\Debug\netcoreapp3.1\InheritanceTest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session7\inheritancetest\obj\Debug\netcoreapp3.1\InheritanceTest.dll
+C:\codebits-academy\html5\C#\session7\inheritancetest\obj\Debug\netcoreapp3.1\InheritanceTest.pdb
+C:\codebits-academy\html5\C#\session7\inheritancetest\obj\Debug\netcoreapp3.1\InheritanceTest.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session6\RecursiveMethod\bin\Debug\netcoreapp3.1\RecursiveMethod.exe
+C:\codebits-academy\html5\C#\session6\RecursiveMethod\bin\Debug\netcoreapp3.1\RecursiveMethod.deps.json
+C:\codebits-academy\html5\C#\session6\RecursiveMethod\bin\Debug\netcoreapp3.1\RecursiveMethod.runtimeconfig.json
+C:\codebits-academy\html5\C#\session6\RecursiveMethod\bin\Debug\netcoreapp3.1\RecursiveMethod.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session6\RecursiveMethod\bin\Debug\netcoreapp3.1\RecursiveMethod.dll
+C:\codebits-academy\html5\C#\session6\RecursiveMethod\bin\Debug\netcoreapp3.1\RecursiveMethod.pdb
+C:\codebits-academy\html5\C#\session6\RecursiveMethod\obj\Debug\netcoreapp3.1\RecursiveMethod.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session6\RecursiveMethod\obj\Debug\netcoreapp3.1\RecursiveMethod.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session6\RecursiveMethod\obj\Debug\netcoreapp3.1\RecursiveMethod.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session6\RecursiveMethod\obj\Debug\netcoreapp3.1\RecursiveMethod.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session6\RecursiveMethod\obj\Debug\netcoreapp3.1\RecursiveMethod.dll
+C:\codebits-academy\html5\C#\session6\RecursiveMethod\obj\Debug\netcoreapp3.1\RecursiveMethod.pdb
+C:\codebits-academy\html5\C#\session6\RecursiveMethod\obj\Debug\netcoreapp3.1\RecursiveMethod.genruntimeconfig.cache

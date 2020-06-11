@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Check Support for Web Storage</title>
+</head>
+<body>
+<h1>Check Support for Web Storage</h1>
+<button id="btn">Add Initial Login Details</button>
+<input type="text" id="txtUsername" placeholder="Username">
+<input type="password" id="txtPassword" placeholder="Password">
+<button id="btn2">Login</button>
+
+<script>
+	const btn = document.querySelector("#btn");
+	const txtUsername = document.querySelector("#txtUsername");
+	const txtPassword = document.querySelector("#txtPassword");
+	const btn2 = document.getElementById('btn2');
+
+	let count = 0;
+
+	btn.addEventListener("click", initialize);
+	btn2.addEventListener("click", checkLoginDetails);
+
+	function checkLoginDetails() {
+		let username = txtUsername.value;
+		let password = txtPassword.value;
+
+		if (checkLogStatus) {
+
+			if ((localStorage.getItem('username') == username) && (localStorage.getItem('password') == password)) {
+				alert("Access granted!");
+			} else {
+				if (count == 3) {
+					btn2.setAttribute('disabled', true);
+					return;
+				}
+				count++;
+				localStorage.setItem('count', count);
+				console.log("You have " + eval(3-count) + " left.");
+
+			}
+		} else {
+			console.log("Add initial Login details");
+		}
+	}
+
+
+
+	function initialize() {
+		if (checkLogStatus) {
+			localStorage.setItem('username', 'admin');
+			localStorage.setItem('password', 'secret');
+			localStorage.setItem('count', '0');
+			console.log("Login details initialized");
+		} else {
+			console.log("Login details already initialized");
+		}
+	}
+
+
+	function checkLogStatus() {
+		if ((localStorage.getItem('username') == null) && (localStorage.getItem('password') == null)) {
+			return true;
+		}
+		return false;
+	}
+
+
+	function getCount() {
+		if (checkLogStatus) {
+			let count = parseInt(localStorage.getItem('count'));
+			return count;
+		} return false;
+	}
+
+	if (getCount) {
+		let statusMessage = `You have ${eval(3 - getCount())} attemps left`;
+		console.log(statusMessage);
+
+		if (getCount() == 3) {
+			btn2.setAttribute('disabled', true);
+		}
+	}
+	console.log(getCount());
+</script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session6\PatienceRecovery\bin\Debug\netcoreapp3.1\PatienceRecovery.exe
+C:\codebits-academy\html5\C#\session6\PatienceRecovery\bin\Debug\netcoreapp3.1\PatienceRecovery.deps.json
+C:\codebits-academy\html5\C#\session6\PatienceRecovery\bin\Debug\netcoreapp3.1\PatienceRecovery.runtimeconfig.json
+C:\codebits-academy\html5\C#\session6\PatienceRecovery\bin\Debug\netcoreapp3.1\PatienceRecovery.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session6\PatienceRecovery\bin\Debug\netcoreapp3.1\PatienceRecovery.dll
+C:\codebits-academy\html5\C#\session6\PatienceRecovery\bin\Debug\netcoreapp3.1\PatienceRecovery.pdb
+C:\codebits-academy\html5\C#\session6\PatienceRecovery\obj\Debug\netcoreapp3.1\PatienceRecovery.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session6\PatienceRecovery\obj\Debug\netcoreapp3.1\PatienceRecovery.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session6\PatienceRecovery\obj\Debug\netcoreapp3.1\PatienceRecovery.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session6\PatienceRecovery\obj\Debug\netcoreapp3.1\PatienceRecovery.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session6\PatienceRecovery\obj\Debug\netcoreapp3.1\PatienceRecovery.dll
+C:\codebits-academy\html5\C#\session6\PatienceRecovery\obj\Debug\netcoreapp3.1\PatienceRecovery.pdb
+C:\codebits-academy\html5\C#\session6\PatienceRecovery\obj\Debug\netcoreapp3.1\PatienceRecovery.genruntimeconfig.cache

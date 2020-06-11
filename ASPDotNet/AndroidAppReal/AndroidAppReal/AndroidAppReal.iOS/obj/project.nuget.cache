@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zzNZ+5snCew6mIvEDnHi996iXQk4+pKrJX3wAsi3VmFProrx8PiXQaUiKwd+Cn+grFnbNrXa6uHZW9YQAQStRA==",
+  "success": true,
+  "projectFilePath": "C:\\codebits-academy\\ASPDotNet\\AndroidAppReal\\AndroidAppReal\\AndroidAppReal.iOS\\AndroidAppReal.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

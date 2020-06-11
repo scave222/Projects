@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session6\shift\obj\Debug\netcoreapp3.1\Shift.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session6\shift\obj\Debug\netcoreapp3.1\Shift.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session6\shift\obj\Debug\netcoreapp3.1\Shift.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session6\shift\obj\Debug\netcoreapp3.1\Shift.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session6\shift\bin\Debug\netcoreapp3.1\Shift.exe
+C:\codebits-academy\html5\C#\session6\shift\bin\Debug\netcoreapp3.1\Shift.deps.json
+C:\codebits-academy\html5\C#\session6\shift\bin\Debug\netcoreapp3.1\Shift.runtimeconfig.json
+C:\codebits-academy\html5\C#\session6\shift\bin\Debug\netcoreapp3.1\Shift.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session6\shift\bin\Debug\netcoreapp3.1\Shift.dll
+C:\codebits-academy\html5\C#\session6\shift\bin\Debug\netcoreapp3.1\Shift.pdb
+C:\codebits-academy\html5\C#\session6\shift\obj\Debug\netcoreapp3.1\Shift.dll
+C:\codebits-academy\html5\C#\session6\shift\obj\Debug\netcoreapp3.1\Shift.pdb
+C:\codebits-academy\html5\C#\session6\shift\obj\Debug\netcoreapp3.1\Shift.genruntimeconfig.cache

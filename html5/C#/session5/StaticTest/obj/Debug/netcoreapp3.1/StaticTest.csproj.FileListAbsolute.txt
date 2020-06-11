@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session5\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.exe
+C:\codebits-academy\html5\C#\session5\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.deps.json
+C:\codebits-academy\html5\C#\session5\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.runtimeconfig.json
+C:\codebits-academy\html5\C#\session5\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session5\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.dll
+C:\codebits-academy\html5\C#\session5\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.pdb
+C:\codebits-academy\html5\C#\session5\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session5\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session5\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session5\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session5\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.dll
+C:\codebits-academy\html5\C#\session5\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.pdb
+C:\codebits-academy\html5\C#\session5\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.genruntimeconfig.cache

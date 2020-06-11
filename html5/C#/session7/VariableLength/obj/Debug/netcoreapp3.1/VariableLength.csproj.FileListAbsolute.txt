@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session7\variablelength\obj\Debug\netcoreapp3.1\VariableLength.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session7\variablelength\obj\Debug\netcoreapp3.1\VariableLength.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session7\variablelength\obj\Debug\netcoreapp3.1\VariableLength.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session7\variablelength\obj\Debug\netcoreapp3.1\VariableLength.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session7\variablelength\bin\Debug\netcoreapp3.1\VariableLength.exe
+C:\codebits-academy\html5\C#\session7\variablelength\bin\Debug\netcoreapp3.1\VariableLength.deps.json
+C:\codebits-academy\html5\C#\session7\variablelength\bin\Debug\netcoreapp3.1\VariableLength.runtimeconfig.json
+C:\codebits-academy\html5\C#\session7\variablelength\bin\Debug\netcoreapp3.1\VariableLength.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session7\variablelength\bin\Debug\netcoreapp3.1\VariableLength.dll
+C:\codebits-academy\html5\C#\session7\variablelength\bin\Debug\netcoreapp3.1\VariableLength.pdb
+C:\codebits-academy\html5\C#\session7\variablelength\obj\Debug\netcoreapp3.1\VariableLength.dll
+C:\codebits-academy\html5\C#\session7\variablelength\obj\Debug\netcoreapp3.1\VariableLength.pdb
+C:\codebits-academy\html5\C#\session7\variablelength\obj\Debug\netcoreapp3.1\VariableLength.genruntimeconfig.cache

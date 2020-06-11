@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>@ViewData["Header"]</h1>
+
+@*@{
+    var student = ViewData["Student"]
+    as ViewPractice.Models.Student;
+}*@
+
+@{ 
+    var student = ViewBag.Stud;
+}
+<div>
+    StudentId : @student.StudentId
+</div>
+<div>
+    Name : @student.Name
+</div>
+<div>
+    Branch : @student.Branch
+</div>
+<div>
+    Section : @student.Section
+</div>
+<div>
+    Gender : @student.Gender
+</div>
+
+

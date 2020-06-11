@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session6\MultiplyRef\bin\Debug\netcoreapp3.1\MultiplyRef.exe
+C:\codebits-academy\html5\C#\session6\MultiplyRef\bin\Debug\netcoreapp3.1\MultiplyRef.deps.json
+C:\codebits-academy\html5\C#\session6\MultiplyRef\bin\Debug\netcoreapp3.1\MultiplyRef.runtimeconfig.json
+C:\codebits-academy\html5\C#\session6\MultiplyRef\bin\Debug\netcoreapp3.1\MultiplyRef.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session6\MultiplyRef\bin\Debug\netcoreapp3.1\MultiplyRef.dll
+C:\codebits-academy\html5\C#\session6\MultiplyRef\bin\Debug\netcoreapp3.1\MultiplyRef.pdb
+C:\codebits-academy\html5\C#\session6\MultiplyRef\obj\Debug\netcoreapp3.1\MultiplyRef.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session6\MultiplyRef\obj\Debug\netcoreapp3.1\MultiplyRef.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session6\MultiplyRef\obj\Debug\netcoreapp3.1\MultiplyRef.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session6\MultiplyRef\obj\Debug\netcoreapp3.1\MultiplyRef.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session6\MultiplyRef\obj\Debug\netcoreapp3.1\MultiplyRef.dll
+C:\codebits-academy\html5\C#\session6\MultiplyRef\obj\Debug\netcoreapp3.1\MultiplyRef.pdb
+C:\codebits-academy\html5\C#\session6\MultiplyRef\obj\Debug\netcoreapp3.1\MultiplyRef.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\session7\commandlineargument\bin\Debug\netcoreapp3.1\CommandLineArgument.exe
+C:\codebits-academy\html5\C#\session7\commandlineargument\bin\Debug\netcoreapp3.1\CommandLineArgument.deps.json
+C:\codebits-academy\html5\C#\session7\commandlineargument\bin\Debug\netcoreapp3.1\CommandLineArgument.runtimeconfig.json
+C:\codebits-academy\html5\C#\session7\commandlineargument\bin\Debug\netcoreapp3.1\CommandLineArgument.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\session7\commandlineargument\bin\Debug\netcoreapp3.1\CommandLineArgument.dll
+C:\codebits-academy\html5\C#\session7\commandlineargument\bin\Debug\netcoreapp3.1\CommandLineArgument.pdb
+C:\codebits-academy\html5\C#\session7\commandlineargument\obj\Debug\netcoreapp3.1\CommandLineArgument.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\session7\commandlineargument\obj\Debug\netcoreapp3.1\CommandLineArgument.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\session7\commandlineargument\obj\Debug\netcoreapp3.1\CommandLineArgument.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\session7\commandlineargument\obj\Debug\netcoreapp3.1\CommandLineArgument.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\session7\commandlineargument\obj\Debug\netcoreapp3.1\CommandLineArgument.dll
+C:\codebits-academy\html5\C#\session7\commandlineargument\obj\Debug\netcoreapp3.1\CommandLineArgument.pdb
+C:\codebits-academy\html5\C#\session7\commandlineargument\obj\Debug\netcoreapp3.1\CommandLineArgument.genruntimeconfig.cache
